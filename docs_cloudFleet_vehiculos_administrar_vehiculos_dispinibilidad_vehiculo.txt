@@ -1,0 +1,41 @@
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/administrar_vehiculos/dispinibilidad_vehiculo
+Título: Disponibilidad del vehiculo - Configuracion
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Disponibilidad del vehiculo - Configuracion
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Administrar vehiculos
+
+Disponibilidad del vehiculo - Configuracion
+
+Para poder obtener una consulta confiable de disponibilidad de vehículos, es necesario realizar una correcta y precisa configuración.
+
+El resultado obtenido de esta configuración sera, obtener en valor de porcentaje, cuanto tiempo el vehículo esta disponible para la operación, con respecto al tiempo que pasa en mantenimiento cada mes (ejemplo, 79% disponible).
+
+Para que el horario de trabajo del vehículo y las horas operativas sean las mismas cada mes, debe primero llenarse elhorario de trabajoy luego ir al formulario donde se definen lashoras operativas, e indicarle al sistema que aplique el horario a las horas operativas para todos los meses, para hacerlo solo debe dar clic en el enlace.
+
+Lo primero que se debe hacer, esdefinir las horas operativas del vehículo, haga clic en el enlaceel sistema mostrara un formulario en el cual usted debe especificar un numero deHoras operativas predeterminadas, estas corresponden al numero de horas que el vehículo debe estar disponible en el mes para la operación de la compañía, éstas serian un numero que aplicaría para todos los meses, sí se desea ser mas preciso, puede definir las horas operativas de cada mes del año, de esta forma el cálculo de disponibilidad sera más exacto.
+
+Importante:El sistema calculará la disponibilidad con la siguiente jerarquía: si define las horas por cada mes, será este el valor que se tomará para calcular la disponibilidad, si no ingresa este, el sistema tomará el valor ingresado en horas operativas predeterminadas.
+
+Nota:Si desea aplicar la cantidad de horas definidas en el horario del vehículo a cada mes, solo debe dar clic en el enlace.
+
+Para finalizar, solo debe dar clic enGrabar
+
+Sí en la operación de los vehículos de su compañía se cuenta con un horario establecido para laborar, el sistema le permite definir un horario, con este horario el sistema funcionará de la siguiente manera: el sistema comparará el horario que tiene definido en ese momento el vehículo, con el tiempo (hora de inicio y cierre) de las ordenes de trabajo, de esta forma cargara las hora de no operatividad, las horas que éstas se crucen. Un ejemplo puede ser, el vehículo tiene un horario de 08:00 am - a - 06:00 pm (10 horas al día) y una orden de trabajo se inicia a las 06:00 am y se cierra a las 10:00 am, el sistema cargara 2 horas de no operatividad del vehículo.
+
+Para definir el Horario de trabajo, solo debe ingresar al enlace, el sistema mostrará un formulario en el cual podrá definir el horario de trabajo del vehículos por cada día, solo debe acceder desde el lápiz, para ingresar el rango de horas de trabajo, después de asignar el
+horario a uno de los días, puede copiar este rango al resto de los días dando clic sobre el enlace
+
+Para finalizar y aplicar la el horario al vehículo, haga clic enGrabar
+
+Después que de realizar esta configuración y cerrar las ordenes de trabajo, podrá ver datos reales en la gráfica de Disponibilidad de mantenimiento y la consulta deDisponibilidad por tipo de vehículos.
+
+vehiculos
