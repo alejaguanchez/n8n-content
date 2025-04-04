@@ -1,0 +1,400 @@
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/orden_trabajo/crear_orden_trabajo
+Título: Crear orden de trabajo
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear orden de trabajo
+### Encabezado​
+### Información Básica:​
+### Observaciones:​
+### Asignación:​
+### Histórico del Vehículo:​
+## Pestaña de Trabajos (Mano de Obra)​
+### Agregar Trabajos​
+### Editar Trabajo en: Valores y Proveedores​
+### Eliminar Trabajo de la Orden:​
+### Convertir un Trabajo en "Novedad de Mantenimiento"​
+### Solicitar repuestos y Trabajos​
+### Consultar datos de Última ejecución​
+## Pestaña de Repuestos​
+### Adicionar Repuestos​
+### Modificar Repuestos​
+## 4. Pestaña de Novedades​
+### Novedades con trabajos asociados​
+### Novedades sin trabajos asociados​
+## 5. Pestaña de Secuencias de rutina​
+#### Iniciar secuencia nueva​
+#### Secuencias actuales para el vehículo​
+#### Secuencias programadas para iniciar​
+## 6. Pestaña de Costos Totales​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Orden de trabajo
+
+Crear orden de trabajo
+
+LaOrden de Trabajose constituye en la principal herramienta de ingreso de información de Mantenimiento al sistema. Es a través de la Orden de Trabajo que se registra de forma detallada cada una de las acciones de mantenimiento ejecutadas para un vehículo, con sus respectivos repuestos, costos, descuentos, impuestos, proveedores, etc.
+
+Los trabajos empleados en la creación de en una Orden de Trabajo, provienen del maestro de trabajos creado en la plataforma, desde cualquiera de sus diversas formas de hacerlo. vea también:Crear Trabajos,Importar Trabajos desde Archivo.
+
+Encuentra un buscador, el cual ofrece la posibilidad de filtrar la búsqueda de ordenes de trabajo previamente creadas, filtre por:Todas, Fecha de orden, número de orden, fecha de finalización, vehículo, centro de costos, ciudad y una consulta avanzadaque lleva a la consulta general de ordenes.Buscar Orden de Trabajo
+
+Para crear una Orden de Trabajo ingrese por:Mantenimiento > Ordenes de Trabajo.En el campo de texto"Vehículo",ingrese la identificación del vehículo, utilice el icono de la "Lupa"para ubicar fácilmente un vehículo determinado.
+
+Importante
+
+Por defecto el sistema esta siempre en la opción de "Crear Orden", pero usted también puede crear ordenes de trabajo que no afecten las programaciones de mantenimiento actuales en el sistema, esto le sera útil, cuando usted desea ingresar registros históricos de mantenimiento sin que afecte el plan de mantenimiento.
+
+Una Orden de Trabajo se divide en varios secciones o pestañas las cuales son:
+
+Crear orden de trabajoEncabezadoInformación Básica:Observaciones:Asignación:Histórico del Vehículo:Pestaña de Trabajos (Mano de Obra)Agregar TrabajosEditar Trabajo en: Valores y ProveedoresEliminar Trabajo de la Orden:Convertir un Trabajo en "Novedad de Mantenimiento"Solicitar repuestos y TrabajosConsultar datos de Última ejecuciónPestaña de RepuestosAdicionar RepuestosModificar Repuestos4. Pestaña de NovedadesNovedades con trabajos asociadosNovedades sin trabajos asociados5. Pestaña de Secuencias de rutinaIniciar secuencia nuevaSecuencias actuales para el vehículoSecuencias programadas para iniciar6. Pestaña de Costos Totales
+
+Encabezado
+
+Información Básica:
+
+Observaciones:
+
+Asignación:
+
+Histórico del Vehículo:
+
+Pestaña de Trabajos (Mano de Obra)Agregar TrabajosEditar Trabajo en: Valores y ProveedoresEliminar Trabajo de la Orden:Convertir un Trabajo en "Novedad de Mantenimiento"Solicitar repuestos y TrabajosConsultar datos de Última ejecución
+
+Agregar Trabajos
+
+Editar Trabajo en: Valores y Proveedores
+
+Eliminar Trabajo de la Orden:
+
+Convertir un Trabajo en "Novedad de Mantenimiento"
+
+Solicitar repuestos y Trabajos
+
+Consultar datos de Última ejecución
+
+Pestaña de RepuestosAdicionar RepuestosModificar Repuestos
+
+Adicionar Repuestos
+
+Modificar Repuestos
+
+4. Pestaña de NovedadesNovedades con trabajos asociadosNovedades sin trabajos asociados
+
+Novedades con trabajos asociados
+
+Novedades sin trabajos asociados
+
+5. Pestaña de Secuencias de rutinaIniciar secuencia nuevaSecuencias actuales para el vehículoSecuencias programadas para iniciar
+
+Iniciar secuencia nueva
+
+Secuencias actuales para el vehículo
+
+Secuencias programadas para iniciar
+
+6. Pestaña de Costos Totales
+
+Ir al inicio...
+
+Luego de ingresar la identificación del vehículo  y hacer clic en el botón "Crear Orden", deberá diligenciar el encabezado de la orden, en el cual se consignan datos generales de la orden; el encabezado a su vez lo comprenden 4 partes o secciones:Información Básica, Observaciones, Asignación, e Histórico del Vehículo.De estas 4 secciones, solo los de Información Básica, Observaciones y asignación: se utilizan para ingresar información, la secciones de  Histórico del Vehículo es de consulta. La secciónInformación Básicaes el único que tiene campos obligatorios, las otras Secciones contienen campos
+opcionales.
+
+Ir al inicio...
+
+Esta sección contiene los campos mas importantes para la creación de la orden. Con el diligenciamiento de estos campos puede continuar al segundo paso en la creación de la orden. Se encuentran los siguientes campos:
+
+Fecha Ingreso Taller:Indica el momento de ingreso del vehículo al taller.
+
+Fecha Orden:Indica la fecha y hora en que se comienza a ejecutar las labores de mantenimiento al vehículo, este es un campo obligatorio.
+
+Posible Cierre:Indica la fecha y hora posible para finalizar y cerrar orden de trabajo, este es un campo obligatorio.
+
+Medición:Kilómetros de recorrido u Horas de trabajo con las que ingresa el vehículo a efectuar el mantenimiento.
+
+Proveedor:En este campo se indica el proveedor principal de la orden. Al seleccionar un "Proveedor" acá, por defecto todos los trabajos y repuestos aplicados a la orden, quedarán asociados a éste predeterminadamente. Importante: cloudFleet ofrece la posibilidad de asignar luego un proveedor diferente a cada acción de mantenimiento o a cada repuesto, repuesto cargado en la orden,este es un campo obligatorio.
+
+Afecta la disponibilidad:Esta opción indica si esta orden de trabajo afecta o no el indicador de disponibilidad del vehículo.
+
+Tipo de Orden:Esta es una clasificación personalizada que puede hacer el usuario para discriminar las ordenes por los conceptos que desee. (Ej; por desgaste normal de la operación, por mala conducción del vehículo, por ley, por garantía, etc.)
+
+Afecta la disponibilidad:Al indicar que afecta la disponibilidad, podrá saber cuanto tiempo esta pasando en mantenimiento, y poder saber
+el porcentaje de tiempo que el vehículo esta disponible para la operación.
+
+Es una falla:Esta opción le permite indicar que la orden de trabajo es una falla y esto va de la mano sobre los tiempo e indicadores de mantenimiento sobre tiempo medio entre falla, tiempo promedio para reparar o la confiabilidad.
+
+Conductor:De la lista de conductores disponible, seleccione el conductor vigente al momento de generar esta orden de trabajo. Si el
+vehículo tiene asignado un conductor éste lo traerá de forma predeterminada.
+
+Etiqueta:Es una forma adicional de identificar una orden de trabajo.
+
+Contara con una sección deObservaciones, en la cual podrá ingresar informacion como, una observación general, Motivo de Ingreso, Problema detectado, Forma de pago y Garantías ofrecidas.
+
+Viaje:Esta opción se utiliza para relacionar el gasto de mantenimiento en ésta orden con el viaje que haya ejecutado el vehículo y durante el cual surgió el imprevisto que originó el mantenimiento. Si usted despliega el listado de viaje, el sistema automáticamente le mostrara los viajes abiertos para el vehículo.
+
+Sumar a liquidación:Debe indicar en esta opción si se cargara o no el valor de la orden a la liquidación del viaje, Esto solo aplica para
+las empresas que usan el modulo de viajes.
+
+Usted puede definir diferentes observaciones, las cuales le darán una mayor descripción a la orden de trabajo. Podrá ingresar: una observación
+General, motivo de ingreso, problema detectado, forma de pago y garantías ofrecidas.
+
+Para visualizar las observaciones en la edición de la orden, deba dar clic en el enlace o pestaña se encuentra en la parte superior indicada
+como:
+
+Para modificar estas observaciones, debe ingresar a las mas acciones de la orden, y acceder a la opción de Modificar.
+
+Ir al inicio...
+
+Para modificar los datos de asignación (agrupación) del vehículo, solo debe dar clic sobre el enlacede esta forma visualizara los datos asignados.
+
+Si desea visualizar los datos de asignación después de crear la orden, deba dar clic en el enlace o pestaña que se encuentra en la parte
+superior indicada como
+
+Para poder modificar los datos de asignación, debe ingresar a las mas acciones de la orden, y acceder a la opción de modificar.
+
+En la Pestaña de costos, el sistema presenta los datos de agrupación propios del vehículo, con la opción de poder cambiar alguno de los items, solo temporalmente para este orden. Es decir si un vehículo esta asignado generalmente alCentro de costos"Propios"  pero mientras realizaba una operación para el centro de costos "Terceros" genero un mantenimiento, yo podré asignarle este costo temporalmente al centro de costos "Propios", sin necesidad de modificar el centro de costos original del vehículo. Con la posibilidad de generar consultas con los diferentes centros de costos por los que haya pasado el vehículo.
+
+Ciudad:Indica la "Ciudad" que tiene el vehículo asignada predeterminadamente, si desea, lo puede modificar para la orden.
+
+Primer Grupo:Indica el grupo asignado al vehículo en su configuración inicial.
+
+Segundo Grupo:Indica el segundo grupo asignado al vehículo en su configuración inicial.
+
+Ir al inicio...
+
+Sin salir del formulario de la Orden de Trabajo, conozca de primera mano, un histórico de losúltimos 20 "Trabajos" y/o "Repuestos"que se le han ejecutado al vehículo esta información se muestra en una ventana emergente. Con la posibilidad de filtrar dicha búsqueda por varias opciones:
+
+Con este histórico del vehículo, desde el momento en que está creando la orden, podrá saber la última vez que le realizó el mismo trabajo, con cual número de orden, con que proveedor y su costo.
+
+Una vez diligenciado el encabezado, con los datos obligatorios de la Pestaña de "Información Básica" y los datos opcionales que se deseen ingresar del resto de Pestañas, haga clic en el botón "Crear e ir a Trabajos".
+
+Ir al inicio...
+
+En la "Pestaña de Trabajos" registre los trabajos o mano de obra que se le ejecutan al vehículo en la orden.
+
+Desde esta pestaña usted podrá agregar Trabajos, Rutinas o buscar los trabajos dependiendo de su sistema y sub-sistema asociado. (Los trabajos deben estar previamente creados)
+
+El sistema le permite dos formas de buscar el trabajo, ya se por su nombre, solo ingresando el nombre o parte del nombre, o por su código.
+Para usar la opción de búsqueda porcódigoasignado al trabajo debe ingresar el código y anteponiendo el Caracter "asterisco" (*).
+Ejemplo, para buscar el Para buscar un trabajo con el código 2146, ingresa "*2146", ingrese el nombre o el código y finalice dando "Enter".
+
+Tenga en cuenta que sí el trabajo tiene definida una periodicidad para el trabajo, se indicara al final del trabajo con el icono
+
+Para agregar el trabajo haga clic en el icono de "Agregar"o el nombre del trabajo que desea agregar.
+
+La siguiente opción de búsqueda de la opción de agregar a la orden de trabajo una "Rutinas"de mantenimiento. Ingrese el nombre  o parte del nombre del ratina y luego presione la tecla "Enter". De esta forma podrá agregar la rutina que previamente configuro por la opción "Rutinas de Mantenimiento".
+Si la rutina asignada en la orden de trabajo, fue configurada con una periodicidad, esta se programará automáticamente según su configuración.
+
+Para agregar la rutina haga clic en el icono de "Agregar"o
+el nombre de la rutina que desea agregar.
+
+Tenga en cuenta que sí tiene definida una periodicidad para la rutina, se indicara al final del nombre de la rutina con el icono
+
+De igual forma podrá buscar los trabajos por "Sistemas", lo que facilitará ejecutar o asignar a la orden toda una serie de trabajos pertenecientes a un mismo "Sistema". Si desea ampliar información sobre los "Sistemas". vea tambiénSistemas y Subsistemas.
+
+Para agregar la rutina haga clic en el icono de "Agregar"o el nombre del trabajo que desea agregar.
+
+Sí se adiciona un trabajo en una orden que aún no es tiempo de ejecutarlo, con base a la periodicidad definida para éste y su última ejecución,  la plataforma mostrará el siguiente mensaje de alerta.
+
+El mensaje incluye la medición de la última ejecución, la medición de la próxima ejecución. La plataforma ante este mensaje, ofrece la posibilidad de continuar con la ejecución de la actividad o de cancelarla.
+
+Una vez seleccionados los Trabajos pertinentes para la orden de trabajo, estos pasan a la parte inferior del formulario de la orden, con múltiples opciones de edición y de verificación de información. entre las opciones que se pueden ejecutar con un trabajo se encuentran:
+
+Editar en valores y proveedores
+
+Eliminar Trabajos de la Orden
+
+Convertir un Trabajo en "Novedad de Mantenimiento"
+
+Solicitar Insumos y Trabajos
+
+Consultar datos de Última ejecución, periodicidad y próxima Ejecución.
+
+Definir Responsables de ejecutar el trabajo en esta orden.
+
+Ir al inicio...
+
+Una vez agregado el trabajo, edite aspectos como:Valor, Cantidad, Impuestos, Proveedor, Número de Factura y Fecha de Factura;para realizarlo haga clic en el icono de "Modificar" representado por un "Lápiz".
+
+Tipo de Mtto:Se específica si el trabajo es de carácter Preventivo, Correctivo o los tipos de mantenimiento que usted halla configurado.
+
+Descuento:Sí el descuento es en porcentaje se debe seleccionar la opción de (%), sí el descuento es en dinero, selecciona la opción de
+($).
+
+Impuesto:Se mostrarán las opciones de impuestos previamente configurados en la cuenta,  a través de la opción:Empresa > Configuración > Empresa > Generales > Impuestos.
+
+Factura NroyFecha Factura: Corresponden a la información que tiene la factura del trabajo.
+
+Fecha Radicación: Hace referencia a la fecha en que se radica la factura, esto es muy útil al momento de realizar consultas.
+
+Para terminar con la edici ón del los items del trabajo, haga clic en el botón "Modificar" para aplicar las modificaciones hechas.
+
+Ir al inicio...
+
+Una vez agregado un trabajo para una orden, se puede eliminar de ésta.
+Si el trabajo ya se asocio a un repuesto en la pestaña de repuestos, deberá des-asignarse primero del repuesto, para proceder a eliminarlo, si el repuesto proviene del inventario. Para eliminar un trabajo haga clic en el icono de "Eliminar". El sistema carga un mensaje donde confirma la eliminación presionando sobre el botón "Aceptar", o en su defecto "Cancelar" para anular la acción.
+
+Debe tener en cuenta que si el trabajo a eliminar hace parte de una rutina de mantenimiento, y esta tiene una periodicidad definida, el sistema le informara que la programación de ese trabajo sera eliminada, si usted lo desea, puede ingresar al enlace "crear una programación de este mantenimiento manual", para hacer una programación nueva del trabajo eliminado.
+
+Debe tener en cuenta que cuando usted desee eliminar una rutina de trabajo por completo, debe eliminar al menos un trabajo de la rutina; el sistema le preguntara sí desea eliminar la rutina completa, o solo el trabajo (individual).
+
+Ir al inicio...
+
+Luego de asignar el trabajo a una orden de trabajo, y por alguna circunstancia éste no se pudo ejecutar en la orden, se tiene la posibilidad de crear una **Novedad de Mantenimiento **para que quede anotado en el sistema como pendiente por ejecutar. Para más información sobre el manejo de las novedades, vea también:Cómo Crear Novedad
+
+Para convertir el trabajo en novedad de mantenimiento, debe dar clic en el el icono de "mas acciones", encontrara la opción de, solo debe dar clic sobre esta y se convertirá en novedad.
+
+Ir al inicio...
+
+El sistema le permite crear una cotización de trabajos o de repuestos desde la Orden de Trabajo.
+
+Para realizar la solicitud siga los siguientes pasos:
+
+Ubique el trabajo al cual desea asociar la solicitud.
+
+Pase el puntero sobre el botón verde al final del registro
+
+Haga clic sobre el enlace de "Solicitar Insumos" o "Solicitar Trabajos"
+
+Indique si desea "Crear una Nueva Solicitud" o "Adjuntar"
+
+Ingrese el Trabajo al que desea asociarle el Repuesto
+
+Ingrese en nombre del repuesto
+
+Ingrese la Cantidad Solicitada
+
+Ingrese la persona que Reclama
+
+Para Finalizar haga clic enCrear
+
+Ir al inicio...
+
+Esta opción le permitirá visualizar cuando fue la ultima vez que ejecuto el trabajo, sí el trabajo tiene o tenia una periodicidad definida  al momento de agregarse a la orden, y cuando sera su próxima ejecución, así como el nombre de la persona y fecha de creación del trabajo.
+
+El nombre del trabajo es un enlace.
+
+Ubique el trabajo al cual desea visualizar su ultima ejecución.
+
+Haga clic sobre el nombre del trabajo
+
+Visualizara la información de la ultima ejecución del trabajo.
+
+El sistema le informara si se agrego el trabajo antes de tiempo, esto se representa con un letrero de color rojo.
+
+Acciones Masivas
+
+Usted tiene la opción de realizar acciones para trabajos, esto le permitirá asignar de forma rápida valores, fechas o numero de facturas., solo debe acceder al botón de
+
+Seleccione los trabajos a los cuales desea hacerles la modificacion masiva.
+
+Luego haga clic sobre el botón de Modificar Seleccionados
+
+Seleccione los campos que desea modificar
+
+Para finalizar la modificacion haga clic enModificar
+
+Ir al inicio...
+
+Desde esta pestaña registre los Repuestos usados en el mantenimiento del vehículo.
+
+El sistema le permite visualizar los repuestos existentes en el maestro general de Repuestos, Vea también:
+"Repuestos"
+
+Ingrese el nombre o una parte delRepuestos, luego haga clic en la "Lupa"o la tecla "Enter", sí éste existe previamente, el sistema lo presentará y ofrecerá la opción de agregarlo dando clic en "Agregar"o sobre el nombre del repuesto, también podrá indicar la cantidad de unidades que desea cargar en la orden de trabajo.
+
+Nota:Recuerde que todo Repuesto debe estar asociado a uno de los trabajos previamente adicionados a la orden.
+
+El sistema agregara el repuesto a la orden de trabajo. Sí usted desea crear el repuesto desde este la orden de trabajo, haga clic sobre el icono; debe tener en cuenta que el repuesto que se crea desde este punto queda con su unidad de medida en "Unidad" y con la característica de No inventariable.
+
+Si usted usa el Módulo deCompras e Inventarios, podrá descargar estos a una orden de trabajo, esto lo hará mediante la lista desplegable seleccionando "De Inventario". Vea También:Crear Repuestos
+
+Para agregar Repuestos que hacen parte del inventario siga los siguientes pasos:
+
+Ingrese el nombre delRepuesto de inventariocreado previamente, luego haga clic en la "lupa"o la tecla "Enter"
+
+Ingrese la cantidad  de cada uno de estos. Ingrese la cantidad de repuestos a usar, estos automáticamente se descargaran del inventario. Para agregar a la lista de repuestos presione el icono deAgregaro sobre el nombre del repuesto.
+
+En la lista de repuestos de la orden, el sistema marcará con un color verde los que provienen de su inventario.
+
+*Los Repuestos del inventario no pueden ser modificados desde una Orden; solo pueden ser eliminados; al hacerlo revertirá el movimiento de inventario y aumentara en este las existencias antes sumadas a la orden.
+Para eliminar el repuesto que hace parte del inventario haga clic en la equis roja.
+Para finalizar haga clic en el botónAceptar.
+
+Ir al inicio...
+
+Para modificar un repuesto debe ingresar  a dicha pestaña y dar clic sobre el Icono representado por un Lápiz.Modifique el repuesto requerido, así como sus costos, para confirmar la acción
+haga clic enModificar.
+
+El sistema le permite ingresar informacion de costos del repuesto; podrá ingresar la factura de compra con toda su información: Costo x Unidad, Cantidad, Descripción, Proveedor, Descuento x Unidad, Impuesto,  Factura Nro, Fecha Factura. Haga clic en el botónModificar, para grabar los datos, oCancelar.
+
+Eliminar un Repuesto de una orden de trabajo, Ingrese a la Orden (Buscar Orden), haga clic en la  pestaña deRepuestos,  de clic en el icono representado por una equis roja, para finalizar haga clic en el botónAceptar.
+
+Acciones Masivas
+
+Usted tiene la opción de realizar acciones para repuestos, esto le permitirá asignar de forma rápida valores, fechas o numero de facturas., solo debe acceder al botón de
+
+Seleccione los repuestos a los cuales desea hacerles la modificacion masiva.
+
+Luego haga clic sobre el botón de Modificar Seleccionados
+
+Seleccione los campos que desea modificar
+
+Para finalizar la modificacion haga clic enModificar
+
+Esta pestaña solo se visualizara cuando el vehículo tiene novedades de mantenimiento creadas y pendientes por resolver, adicional podrá visualizar el numero de novedades pendientes.
+
+La pestaña de novedades se divide en dos partes, las novedades que tienentrabajos asociadosy lasnovedades que solo tienen una descripción.
+
+El sistema le permite resolver las novedades de mantenimiento de forma individual (una a una), o puede resolverlas de forma masiva.
+
+Para resolver las novedades de forma individual siga los siguientes pasos:
+
+Haga clic en la pestaña deNovedades.El sistema le mostrara todas las novedades asignadas al vehículo.
+
+Haga clic en el icono "Solucionar Novedad"
+
+Para terminar, confirme la pregunta, "¿Desea solucionar la novedad en esta orden?".
+
+Si desea resolver mas de una novedad al tiempo, la mejor forma es usar la opción masiva. Para usarla debe hacer clic en el botón.
+Después de seleccionar las novedades que desea resolver de forma masiva, debe oprimir el botón de "Resolver Seleccionadas"
+
+Para poder resolver una novedad de mantenimiento, esta debe estar asociada a un trabajo, el sistema le da dos opciones, asociar la novedad
+a un trabajo ya existente en la orden, o asociarla a un trabajo nuevo.
+
+Para resolver una novedad, haga clic sobre el icono.
+
+Para asociar la novedad a un trabajo existente debe indicar en la ventana emergente que desea asociar la novedad a un trabajo existente, para esto solo debe seleccionar el trabajo de la lista desplegable.
+
+Para asociar la novedad a un trabajo nuevo debe indicar en la ventana emergente que desea asociar la novedad a un trabajo nuevo, para esto solo debe ingresar el nombre o parte del nombre del trabajo y luego seleccionar el trabajo.
+
+Para finalizar haga clic en el botónSolucionar con el trabajo indicado
+
+La pestaña dejara de mostrarse al momento de ejecutar todas las novedades.
+
+Ir al inicio...
+
+En esta pestaña o sección de la orden de trabajo, usted podrá a agregar secuencias de rutinas, las cuales son paquetes de rutinas (rutina-1, rutina-2) las cuales se ejecutan de forma secuencial y la transición entre las rutinas puede tener una medición diferente entre ellas; ejemplo Rutina-1 (5000 km) => Rutina-2 (7500 km) => Rutina-3
+
+Esta pestaña se compone de 3 secciones:
+
+Desde esta sección o enlace, usted puede agregar una nueva secuencia para el vehículo, debe tener en cuenta que el sistema solo le mostrara las secuencias que le aplican solo a ese vehículo, y usted indicara en que paso o rutina desea agregar, pues no esta obligado que sea desde el principio, sino iniciar en otro paso o rutina que compone la secuencia.
+
+En esta sección se encuentran las rutinas que ya se iniciaron para el vehículo, así como informacion sobre la orden de trabajo, fecha y medición de la ejecución de la secuencia (borde verde), una linea amarilla y el valor de la próxima medición para ejecutar la próxima rutina de la secuencia (borde rojo), para agregar la rutina que esta programada, solo debe dar clic sobre la rutina que se encuentra con el borde rojo.
+
+En esta sección encontrara las secuencias que están programadas y que deben iniciar desde el primer paso o principio de la secuencia, solo debe dar clic sobre el enlace
+
+Ir al inicio...
+
+En esta pestaña visualizara el costo total de una orden de trabajo, cada vez que agregue un valor a un trabajo o a un insumo se reflejara en el Total de los costos.
+
+Ir al inicio...
+
+mantenimiento
+
+orden de trabajo
