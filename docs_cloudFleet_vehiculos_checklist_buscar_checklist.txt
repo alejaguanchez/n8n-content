@@ -1,0 +1,34 @@
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/checklist/buscar_checklist
+Título: Buscar Checklist
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Buscar Checklist
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Checklist
+
+Buscar Checklist
+
+Para facilitar la búsqueda de un Checklist en el modulo de vehículos del sistema, este cuenta con un buscador, el cual le permite filtrar la búsqueda por las siguientes opciones:
+
+Consecutivo
+
+Vehículo
+
+Tipo de Checklist
+
+Estado de Checklist
+
+Anulado
+
+Una vez realizada la búsqueda, tendrá la posibilidad de acceder a las acciones que le ofrece el sistema para cada Checklist, como: Ver el Informe, Clonar o Anular.
+
+checklist
+
+vehiculos

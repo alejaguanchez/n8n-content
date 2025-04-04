@@ -1,0 +1,52 @@
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/administrar_vehiculos/conductores
+Título: Conductores
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Conductores
+### Notas:​
+### Modificar Conductor Actual​
+### Des-asignar Conductor​
+### Asignar Nuevo Conductor​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Administrar vehiculos
+
+Conductores
+
+Es importante registrar el conductor de cada vehículo, esto dará mas información y tendrá un histórico de conductores por vehículo, también observara los asignados actualmente.
+
+Mediante esta opción se asignan los conductores a los vehículos.
+
+Para hacerlo ingrese por la opción:Vehículos > Catálogo de Vehículos. Ubique el vehículo al que desea asignarle el conductor y luego haga clic en el icono deMás Acciones
+
+Ingrese a la opción"Conductores"
+
+Seleccione la opción"Asignar Nuevo Conductor"
+
+Seleccione de la lista de conductores que presenta el sistema, la persona elegida para el vehículo.
+
+Adicionalmente se tiene la posibilidad de asignarle un período de conducción del vehículo. Dicho período esta integrado al sistema de alertas del sistema, mostrándose en la página de inicio y adicional se envía por correo electrónico la alerta del vencimiento del período
+
+Si el vehículo no tiene un conductor asignado, este quedara como Conductor Principal.
+
+Para finalizar con la asignación de conductor, haga clic en el botón"Crear"
+
+Usted puede asignar mas de un conductor al vehículo, el sistema le permite seleccionar cual será el conductor principal
+
+Los conductores deben estar previamente registrados en el sistema, vea más en: "Crear Personal"
+
+El sistema permite modificar el conductor actual de un vehículo, al momento de crear y asignar un viaje determinado, o en la creación de checklist.
+
+Esta modificación de conductor se emplea para corregir una asignación equivocada. No guarda el histórico de dicha asignación y solo reemplaza el conductor por otro.  Para realizar esta modificación ingrese a la misma opción de asignar conductor, allí encontrará el enlace "Modificar Conductor Actual".
+
+Ésta función permite des-asignar el conductor y dejar el vehículo sin conductor definido. No ofrece la oportunidad de seleccionar un nuevo conductor ni de modificar su período.
+
+Con esta acción puede modificar el conductor de un vehículo, con la ventaja de que éste movimiento si guarda histórico. Es decir que es la opción indicada para asignarle un nuevo conductor a un vehículo, cuando el anterior ya termine su período.
+
+vehiculos
