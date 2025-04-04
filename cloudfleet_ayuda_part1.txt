@@ -1,0 +1,3249 @@
+
+===============================================================================
+CONTENIDO COMPLETO DEL SOPORTE DE CLOUDFLEET
+Soporte URL: https://soporte.cloudfleet.com/
+Páginas extraídas: 534
+Fecha de extracción: 2025-04-04 19:03:22
+===============================================================================
+
+
+================================================================================
+URL: https://soporte.cloudfleet.com/
+Título: Guia del Usuario | Guia del Usuario
+
+## ESTRUCTURA DEL CONTENIDO
+
+### Soporte heroico
+### Atención al instante
+### Mejora continua
+### Preguntasfrecuentas
+
+## CONTENIDO COMPLETO
+
+¡Claro que sí! cloudFleet permite crear usuarios ilimitados, sin que esto afecte el costo del servicio. Además, puedes asignar permisos específicos a cada usuario, de manera que solo puedan ver y ejecutar las funciones autorizadas. Esto garantiza un control seguro y eficiente en la gestión de la flota.
+
+Así es, puedes configurar tus propios planes de mantenimiento, ya sean rutinas lineales o secuenciales, y establecer alertas basadas en kilometraje, horas o días. Nuestro sistema programa automáticamente la próxima ejecución y envía una alerta anticipada, según tus configuraciones.
+
+Sí, nuestro módulo de checklists permite a los usuarios configurar tantas listas como necesiten. Puedes segmentarlas por tipo de checklist o tipo de vehículo, y restringir el acceso para que solo ciertos usuarios puedan visualizarlas. Es una herramienta flexible que se adapta a las necesidades de tu operación.
+
+¡Por supuesto! En cloudFleet, puedes consultar el comportamiento de combustible de cada vehículo y conductor. Además, puedes establecer un rendimiento ideal que se comparará con el rendimiento real, lo que te permitirá tomar decisiones informadas y optimizar el consumo de combustible.
+
+Sí, nuestro sistema cuenta con API's que facilitan la integración con distintos proveedores de GPS compatibles. A través de esta conexión, es posible capturar el kilometraje para optimizar las alertas de mantenimiento y obtener información adicional, como ubicación y códigos de fallos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/intro
+Título: Introducción
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Introducción
+
+## CONTENIDO COMPLETO
+
+Introducción
+
+Le damos la bienvenida al manual de usuario decloudFleet. Estos artículos han sido diseñados para proporcionarle una guía clara y completa sobre el uso   de manera efectiva de las funcionalidades y características decloudFleet.
+
+El objetivo es garantizar que pueda aprovechar al máximo las capacidades de nuestro sistema, y asegurar una experiencia decloudFleetsencilla y eficiente.
+
+Aquí encontrará:
+
+Instrucciones detalladas: Paso a paso para cada función principal.
+
+Ejemplos prácticos: Sugerencias para optimizar su uso y resolver problemas comunes.
+
+Recursos adicionales: Enlaces y soporte técnico para cualquier consulta adicional.
+
+Esta guía está organizada en secciones las cuales le permitirán acceder de forma rápida a la información que necesita.
+
+Si en algún momento cuenta con dudas o necesita ayuda, no dude en comunicarse con nuestro equipo de soporte, usando el chat en línea.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/category/guía-de-usuario
+Título: Guía de Usuario
+
+## ESTRUCTURA DEL CONTENIDO
+
+## Vehiculos
+## Personal
+## Mantenimiento
+## Viajes
+## Compras e Inventarios
+## Seguridad
+## Configuración
+## Llantas
+## Videos
+
+## CONTENIDO COMPLETO
+
+9 artículos
+
+2 artículos
+
+8 artículos
+
+5 artículos
+
+4 artículos
+
+3 artículos
+
+15 artículos
+
+4 artículos
+
+10 artículos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/
+Título: Vehículos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Vehículos
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Centralice la información completa de sus vehículos y todos los procesos relacionados con su correcta administración. Adapte el sistema a su empresa mediante la configuración de cada uno de sus vehículos. Clasifíquelos por ciudades, unidades de negocio, centros de costos, etc. Y así mismo filtre todos los informes por estos conceptos.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/personal/
+Título: Personal
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Personal
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Personal
+
+Además de la gestión con los vehículos, cloudFleet brinda herramientas útiles para administrar diferentes aspectos de las personas, involucradas en todo el proceso operativo de la flota.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/
+Título: Mantenimiento
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Mantenimiento
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Este es un proceso que generalmente resulta muy difícil de controlar, tanto si es preventivo como correctivo. En parte sucede porque no se cuenta con las alertas necesarias para anticiparnos a los problemas y además porque no tenemos control sobre los datos históricos de mantenimiento.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/viajes/
+Título: Viajes
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Viajes
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Viajes
+
+En cloudFleet lleve el control total de los viajes, rutas, rentabilidad, saldos de conductores, liquidaciones de viajes. Para una empresa del sector transportes es habitual la tarea de entregar anticipos al conductor, esto para cubrir los posibles gastos asociados al viaje; el sistema le permite realizar la legalización o liquidación de los viajes de forma eficiente, sencilla y ágil. En este módulo usted podrá definir las comisiones que recibirá el conductor, un estimado en los gastos de viaje. El módulo de viajes también le permite manejar las especificaciones de la carga, fletes, clientes, deducciones, y sus carteras.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/compras_inventarios/
+Título: Compras e Invetarios
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Compras e Invetarios
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Compras e Inventarios
+
+Es un proceso en el cual usted podrá administrar eficientemente su almacén de repuestos y tener control de los insumos que ingresan y salen.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/seguridad/
+Título: Seguridad
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Seguridad
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Seguridad
+
+cloudFleet es una plataforma colaborativa la cual permite que múltiples usuarios accedan al mismo tiempo y trabajen en cualquier parte del sistema. Además al no tener límites de usuarios, se convierte en un centro de trabajo para todos los integrantes de la flota. Por esta razón es indispensable un módulo de seguridad que nos permita controlar y restringir el acceso a la información dependiendo del rol que cumplan las personas.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/configuracion/
+Título: Configuración
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Configuración
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Configuración
+
+Una de las características más importantes de cloudFleet es la flexibilidad y la facilidad en cómo logra adaptarse a los requerimientos de su empresa. Configure las opciones que desea utilizar de acuerdo a la sencillez o complejidad de su flota. Active o desactive módulos, muestre u oculte campos, cambie el comportamiento de algunos controles, etc.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/llantas/
+Título: Llantas
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Llantas
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Llantas
+
+Conozca todos los detalles de sus llantas. Costos, estado, rotaciones, inspecciones, reparaciones, registros fotográficos, entre muchos aspectos más. Analice cuanto le cuesta cada kilómetro y cuál de sus llantas le ofrece un mejor rendimiento. Lleve un control total de los reencauches. Reciba alertas de desgaste, presión y otras, tanto en la plataforma como en su correo electrónico.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/videos/
+Título: !Te damos la bienvenida¡
+
+## ESTRUCTURA DEL CONTENIDO
+
+# !Te damos la bienvenida¡
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Videos
+
+En el menú de la izquierda, puedes elegir laCategoría de videosen los que deseas aprender y profundidad tus conocimientos.
+
+Igualmente, en la parte superior derecha del sistema tienes diferentesopciones de ayuda, que podemos brindarte para cualquier inquietud o duda que tengas durante tu entrenamiento.
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/crear-vehiculo
+Título: Crear Vehiculo
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear Vehiculo
+## Datos Básicos​
+## Uso del Vehículo​
+## Datos de Agrupación​
+## Mas Datos​
+## Compra​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Administrar vehiculos
+
+Crear Vehiculo
+
+Es fundamental para el sistema una buena creación de vehículos, pues de esta información dependerán las alertas de mantenimiento, el ingreso correcto del combustible y una acertada proyección de mantenimientos.
+
+Para crear los vehículos de su flota, el sistema le ofrece dos formas de hacerlo:Manualmente(como se explica a continuación) o a través de laImportación desde Archivo.
+
+Para la creación manual del vehículo, siga estos pasos:
+
+Clic en menúVehículos > Catálogo de Vehículos
+
+Clic en la opción"Nuevo Vehículo"
+
+Ingrese la identificación del vehículo y presione sobre el botón "Verificar". Este paso valida que el vehículo no hubiese sido creado previamente.
+
+Ingrese los campos del formulario y presione sobre el botón "Crear"
+
+El sistema le permite registrar una información completa del vehículo, para esto debe diligenciar las siguientes pestañas:
+
+Crear VehiculoDatos BásicosUso del VehículoDatos de AgrupaciónMas DatosCompra
+
+Datos Básicos
+
+Uso del Vehículo
+
+Datos de Agrupación
+
+Mas Datos
+
+Compra
+
+En el formulario de los Datos Básicos se configuran los aspectos mas relevantes de la configuración del vehículo. tales como: marca, línea, tipo de vehículo, modelo, color, tipo de medición, combustible.
+
+Seleccione de la lista la "Marca"y la "Línea"del vehículo. Esta configuración de "Marca" y "Línea" la puede personalizar a través de la opción:Empresa > Configuración > Vehículos > Marcas y Líneas. Si aún no ha creado dicha configuración puede
+utilizar la opción del menú diseñada para tal fin.
+
+Seleccione en el campo"Tipo Vehículo", la opción más ajustada a las especificaciones del vehículo, ya que de ésta     dependerán varias configuraciones en el sistema. Si no existe el concepto, puede crearlo directamente seleccionando el elemento llamado *"Nuevo Tipo Vehículo".
+
+El campo"Tipo de Medición"indica la unidad de medida del vehículo, el cual puede ser horas,  kilómetros o ambos, la funcionalidad de medir un vehículo en ambos unidades resulta ser muy
+útil al momento de querer tener mantenimientos con frecuencia que se hacen al motor en horas y a las bandas de rodamiento en kilómetros, por citar un ejemplo.
+
+El campo"Tipo de Medición Principal", cuando se selecciona el tipo de medición *Ambas, *se muestra este campo y se usa para indicar cual sera el tipo de medición que se ingresara en la
+aplicación móvil.
+
+El campo"Tipo de Trabajo"indica el nivel de trabajo que se le asigna al vehículo. Los niveles existentes son: Bajo, Normal ó Severo. Es importante tener en cuenta esta configuración  al momento de crear un vehículo, ya que de ésta configuración dependerá parte de la configuración de la periodicidad de los trabajos.
+
+En el campo"Combustible principal"se especifica el combustible principal que emplea el vehículo. En el campo"Combustible secundario"se puede especificar otro tipo
+de combustible auxiliar que use el vehículo.
+
+Seleccione lasSubcuentasa las cuales esta asociado el vehículo, debe tener en cuenta que esta opción solo aparecerá sí tiene activa la funcionalidad de subcuentas.
+
+Los campos señalados con * se deben diligenciar de forma obligatoria.
+
+El sistema le permite asignar al vehículo diferentes parámetros de distancia, horas de trabajo para cada vehículo o rendimiento ideal de combustible.
+
+Tenga en cuenta que con esta configuración, el sistema le mostrara el indicador de disponibilidad por tipo de vehículo, así como la proyección de las fechas de los mantenimientos programados en medición.
+
+Usted puede configurar los siguientes parámetros de uso:
+
+Distancia máxima por en 24 horases la distancia máxima que el vehículo puede recorrer en un 24 horas.
+
+Distancia por día, corresponde a la distancia promedio que el vehículo recorre por día
+
+Horas Operativas, corresponde a las horas mensuales que el vehículo debe estar disponible para la operación, en el caso de diligenciar el horario, las horas operativas se cargaran de forma
+automática.
+
+Horario de Trabajo, corresponde al horario de trabajo que tiene el vehículo en la semana.
+
+Rendimiento Ideal "ACPM", hace referencia al rendimiento ideal de combustible (kilómetros por galón) que debe tener el vehículo, esto de acuerdo a su experiencia, al tipo de combustible o al fabricante del vehículo.
+
+Se debe tener en cuenta, para obtener una información confiable sobre la disponibilidad del vehículo de acuerdo al tiempo que pasa en mantenimiento, es necesario realizar una correcta configuración de "Horas operativas" y en el "Horario de trabajo".
+
+Después de agregar el rendimiento ideal, el sistema le permitirá actualizar los registros históricos que se encuentran ya creados para este vehículo. Para aplicar el rendimiento ideal, solo debe dar clic sobre el icono de.El sistema le mostrara un formulario en el cual usted debe indicar si desea que se actualicen, ya sean todos los registro de combustible o solo los registros en un rango de fechas en especifico, luego solo debe dar clic sobre el botónActualizar Registros
+
+Asigne cada vehículo a una Ciudad, Centro de Costo, Primer Grupo y/o Segundo Grupo, con esto podrá distribuir  los diferentes gastos del vehículo por centro de costos, además crear consultas con múltiples opciones para filtrar.
+
+En el campo"Ciudad"seleccione la ciudad a la cual estará asignado el vehículo en su operación.
+
+En el campo"Centro de Costo"seleccione el centro de costo que más le convenga. Es importante anotar que este concepto de centro costo en la mayoría de empresas tiene una connotación
+contable, pero cada usuario podrá destinarle el uso que más beneficios le represente. Valga anotar que no es necesario crear en este campo vehículo, pues el sistema predeterminadamente toma el
+vehículo como centro de costo principal. Si no existe el concepto.
+
+Adicionalmente puede asignar el vehículo a un"Primer Grupo"e incluso a un"Segundo Grupo", creados por el usuario según la necesidad de su operación. Ambos como un concepto más de
+segmentación de la flota.
+
+Todos los campos de este formulario son opcionales. Ofrecen información adicional del vehículo. Contienen campos como: Nro. Motor, Nro Serie.
+
+En esta pestaña usted podrá ingresar información asociada a la compra del vehículo, de esta forma contara con una hoja de vida completa, datos como: Fecha Compra, Medición de compra, Precio de compra.
+
+Para finalizar con la creación del vehículo, presione sobre el botón"Crear"
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/administrar_mediciones/historico_mediciones
+Título: Historico de Mediciones
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Historico de Mediciones
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Administrar mediciones
+
+Historico de Mediciones
+
+Esta opción le permite conocer el historial de mediciones que ha tenido un vehículo durante toda la gestión en el sistema, o un período de tiempo determinado, sea que se mida en horas o kilómetros. Adicional usted conocerá la fuente desde la cual la medición del vehículo cambió. Para realizar esta consulta, ingrese por la opción:
+
+Vehículos > Administrar Mediciones > Histórico
+
+Ingrese la identificación del vehículo que desea consultar, seleccione la opción del menú que más se ajuste a la búsqueda "Tipo de medición" Km o Horas, escoja una de las opciones: "En un Período" para fijar un rango de tiempo óTodas las Mediciones" para observar el total de las mediciones del vehículo.
+
+Haga clic en el botón "Buscar"
+
+En el caso de realizar la consulta en un rango de tiempo, en la parte inferior el sistema le mostrara el rango de tiempo exacto, la fecha y hora desde la cual inicia la consulta, hasta la fecha y hora de la ultima medición registrada en el rango de tiempo. Como se puede ver en la imagen anterior el rango de fechas que el usuario elije, es diferente al rango que el sistema tomó, pues el sistema elige la medición mas cercana al rango ingresado, ya sea hacia adelante o hacia atrás en fechas, de esta manera se da una distancia recorrida mucho mas cercana a lo real.
+
+Notas:
+
+El sistema mostrará en todo momento la medición actual del vehículo y la medición total recorrida del vehículo desde su inicio en el sistema.
+
+Identifique la fuente o causa por la cual se alimento determinada medición. Con la posibilidad de acceder a la acción que origino la medición. Es decir que si la medición llego al sistema a través de una orden de trabajo, podrá acceder al informe de esa orden, para observar los detalles y hacer las respectivas correcciones en caso de existir un error en la medición.
+
+Esta consulta tiene la funcionalidad de ser exportada a Excel.
+
+mediciones
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/checklist/crear_checklist
+Título: Crear Checklist
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear Checklist
+## Crear Checklist​
+## Novedades​
+## Registros Fotograficos​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Checklist
+
+Crear Checklist
+
+Checklist o lista de chequeo es la funcionalidad que presenta ahora cloudFleet, para evaluar físicamente o visual el vehículo y hacer un exigente seguimiento a las novedades tanto físicas como funcionales del vehículo.
+
+Con éstas listas de chequeo la empresa puede certificar las condiciones de seguridad para operar sus vehículos. Maximizando así los estándares de calidad y minimizando las posibilidades de accidentes por fallas mecánicas previsibles.
+
+El checklist permite crear diferentes tipos de listas, con la posibilidad de configurar cada uno de acuerdo a su necesidad. Además con la oportunidad de crear diferentes criterios de evaluación para calificar cada uno de esos aspectos.
+
+Para crear y realizar el checklist, siga estos pasos:
+
+Clic en menúVehículos > Checklist
+
+Clic en la opción
+
+Aparecerá una pantalla donde debe:
+
+IngresarFechayHora de Creación
+
+Ingrese el"Vehículo"sobre el cual** **desea realizar el checklist.
+
+Haga clic en el botónContinuar.
+
+El sistema presenta un formulario el cual se divide en 3 secciones principales, las cuales son:
+
+Crear Checklist
+
+Novedades
+
+Registros Fotograficos
+
+Se muestran en todo momento los datos básicos del vehículo: **Vehículo, Marca, Línea, Km Actual, Tipo, y Conductor Actual. **Ademas junto con los datos del vehículo encuentra la opción de ingresar la medición vigente al momento de realizar el checklist. El sistema predeterminadamente muestra allí el valor de la última medición
+registrada en el sistema, con la posibilidad de que ingrese al campo y actualice el kilometraje por el actual.
+
+Además permite indicar si el cambia el conductor actual del vehículo por otro, bien sea de los asignados previamente al vehículo o por otro del maestro de conductores.
+
+Seleccione el"Tipo de Checklist"a ejecutar (Ver Cómo ConfigurarTipos de Checklist)
+
+Ir a Inicio...
+
+Las novedades de Checklist se usan para dar un diagnostico actual de cada una de las partes o secciones del vehículo, estas pueden tener diferentes criterios de evaluación. En el caso dado que al lado izquierdo de una novedad visualiza una franja roja, se debe a que esa novedad se debe diligenciar de forma obligatoria, si esta no se califica, no se podrá grabar el checklist.
+
+Nota.Recuerde que estas novedades pueden agruparse.(Ver Configuración)
+
+Es fundamental calificar de forma consiente el Checklist, es donde se le indicara al sistema el estado actual de los vehículos.
+
+Ir a Inicio...
+
+Dejar registros en imágenes es muy importante, de esta forma se puede visualizar cual es el estado del vehículo, y la imagen esta acompañada por un comentario estándar que describe la imagen.
+
+Para Agregar una imagen siga los siguientes pasos:
+
+Haga clic sobre el botónSeleccionar archivo
+
+Ubique la Imagen que desea Cargar
+
+Seleccione unaObservaciónen la lista desplegable
+
+Para Finalizar haga clic enSubir
+
+Debe tener en cuenta que las imágenes no pueden superar los 2 Megas.
+
+Ir a Inicio...
+
+Para finalizar haga clic enGrabar
+
+checklist
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/gestion_documental/seguros
+Título: Seguros
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Seguros
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Gestión Documental
+
+Seguros
+
+Asigne todos los seguros al vehículo que tenga implementados en su flota, a través de la opción:
+
+Vehículos > Catálogo de VehículosUbique el vehículoal que desea asignarle el los seguros y luego haga clic en el icono deMás Acciones
+
+Del menú de opciones que presenta el sistema seleccione"Seguros > Agregar Seguro al vehículo/equipo"
+
+Seleccione el seguro a agregar al vehículo de la lista que presenta el sistema, la cual es definida por el usuario en la configuración inicial. Vea más en: "Configurar Tipo Seguros"
+
+Diligencie los campos que se muestran en el formulario de la asignación del documento. Teniendo en cuenta que son de vital importancia los campos ubicados en "Vigencia", ya que activan las alertas de vencimiento del documento.
+
+Para terminar haga clic en el botón"Crear"
+
+Para asignar la imagen digital (scanner) de este documento, vea:
+"Adjuntar Archivos"
+
+Notas:
+
+Puede crear y asignar cuantos documentos requiera la administración de su flota.
+
+La plataforma cuenta con la posibilidad de crear conceptos de "Tipos de Seguros" desde el menú desplegable de la asignación del documento. Para evitar así tener que desplazarse hasta la opción de configuración de los conceptos. (ver Imagen)
+
+La asignación de un estado "Actual" o "Anterior" en el campo "Documento Actual" , se debe hacer si se desea guardar un histórico de la documentación cargada a un vehículo. Es decir, cuando se cumpla la vigencia de un documento se ingresa a este formulario y se le especifica que "Ya es un documento anterior" y se procede a crear nuevamente un documento con fechas  vigentes. Logrando así que el documento que se venció, sea guardado en un histórico de documentos del vehículo.
+
+Usted puede consultar todos los documentos asignados a los vehículos haciendo clic en
+
+seguros
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/combustible/ingresar_combustible
+Título: Ingresar Combustible
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Ingresar Combustible
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Combustible
+
+Ingresar Combustible
+
+Además de la gestión de llantas y mantenimiento, el sistema brinda una herramienta muy útil, la cual le ayudara a administrar el Combustible consumido por los vehículos en todo el proceso operativo de la flota, así como analizar el rendimiento del combustible. El sistema le ofrece dos formas de hacerloManualmente(como se muestra a  continuación) o por medio deImportación desde Archivo
+
+Debe tener en cuenta que, los campos odómetro y horómetro serán obligatorios o no de acuerdo con la configuración que se tenga en los campos requeridos.
+
+Crear Combustible
+
+Ingrese al MenúVehículos > Combustible
+
+Ubique el vehículo que desea cargarle combustible.
+
+Haga clic en el botón
+
+Se abrirá un formulario, llene los campos con la información correcta.
+
+Sí desea, puede agregar una imagen digital.
+
+Para finalizar haga clic enCrear.
+
+Todos los campos marcados con (*), se deben llenar de forma obligatoria.
+
+Elija el número del viaje, si la carga del combustible corresponde a este, y si este afecta a la liquidación del viaje.
+
+combistible
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/consultas/combustible_historico
+Título: Combustible - Historico de rendimeinto por vehiculo
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Combustible - Historico de rendimeinto por vehiculo
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Consultas
+
+Combustible - Historico de rendimeinto por vehiculo
+
+En esta consulta usted podrá visualizar todos los registros de combustible ingresados para un vehículo en especifico, ademas visualizara cual es el rendimiento real del combustible y compararlo con el rendimiento ideal, de esta forma podrá validar sí su rendimiento esta en el ideal o esta por debajo de este y tomar las medidas pertinentes para que el rendimiento sea el esperado.
+
+Para visualizar informacion de la consulta siga los siguientes pasos:
+
+Ingrese al menú deConsultas > Combustible > Histórico y
+Rendimiento por Vehículo
+
+Ingrese la identificación delVehículo
+
+Ingrese unRango de fechas
+
+Haga clic enContinuarpara realizar la consulta
+
+Podrá visualizar una gráfica en la cual se observan dos lineas, una conel rendimiento real del vehículo, es decir, los kilómetros por galón que ha tenido el vehículo de acuerdo a los registros de combustible, y otra línea que es el rendimiento ideal que usted configuro ya sea por:
+
+Vehículo
+
+Por Tipo de Vehículo y Motor
+
+Por Ruta - Vía
+
+Después de configurar el rendimiento ideal, en el caso que usted tenga registros de combustible ya ingresados, el sistema le permitirá actualizar los registros históricos de combustible para que estos queden con el rendimiento ideal, es muy importante tener una prioridad para realizar esta actualización.
+
+Se debe tener en cuenta que al ingresas los registros de combustible, el sistema tiene una jerarquía sobre la cual se aplica el rendimiento ideal.
+
+Por ruta - vía, al cargar un combustible y este tenga asociado un viaje, el sistema automáticamente validara si se tiene definido un rendimiento ideal para la ruta -  vía, si este no lo tiene configurado, tomara el rendimiento del vehículo, si no lo tiene configurado, tomara el rendimiento ideal por Tipo de vehículo y motor.
+
+En la tabla de datos podrá observar iconos sobre sí el rendimiento es el ideal o no, esto le ayuda a realizar una lectura mucho mas rápida sobre el comportamiento del combustible, adicional se tiene una columna el la cual se indica la diferencia entre el rendimiento real y el ideal.
+
+Se tiene una columna en la cual se indicara el numero del viaje, sí el registro de combustible esta asociado al viaje, y sí tiene configurado el rendimiento ideal para la ruta y el peso que esta transportando en la carga, el sistema aplicara el rendimiento ideal, que este puede ser diferente a los otros registros ingresados.
+
+combistible
+
+vehiculos
+
+consultas
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/otros_gastos/crear_gasto
+Título: Crear Gasto
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear Gasto
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Otros Gastos
+
+Crear Gasto
+
+El concepto de "Otros Gastos" aplica para gastos diferentes a los contemplados en los módulos de el sistema. Es decir que por éste
+concepto NO se ingresaran gastos de mantenimiento, de llantas, de viajes, etc. Sólo gastos de conceptos variados como:
+
+Cuotas de administración
+
+Cuotas del Banco por créditos
+
+Gastos de Depreciación
+
+Impuestos
+
+Telefonía Celular
+
+Para asignarle a un vehículo un concepto de "Otro Gasto" ingrese por la opción:Vehículos > Otros Gastos.
+
+Seleccione el enlace
+
+Ingrese la elVehículo
+
+Seleccione elTipode gasto
+
+Ingrese laFecha
+
+Ingrese elValor Unitariodel gasto
+
+Ingrese laCantidadde los gastos realizados por concepto
+
+IngreseDescuento
+
+Seleccione elImpuesto
+
+IngreseObservaciones
+
+SeleccioneCargar A Persona
+
+Indique eProveedor
+
+IngreseFactura/Docu
+
+Estos gastos afectan directamente toda la información de costos del vehículo. Se reflejan en las consultas del sistema.
+
+otros gastos
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/otros_ingresos/crear_ingreso
+Título: Crear Ingreso
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear Ingreso
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Otros Ingresos
+
+Crear Ingreso
+
+Utilice ésta opción para asignar otros ingresos, los cuales no están contemplados en el sistema, pero hacen parte de su operatividad. Es importante recordar que los conceptos de estos ingresos se configuran previamente por la opción:Empresa > Configuración > Vehículos > Otros Ingresos.
+
+El concepto de "Otros Ingresos" aplica para ingresos diferentes a los contemplados en los módulos del sistema. Es decir que por éste concepto NO se ingresaran por conceptos contemplados en el módulos de viajes, etc. Sólo ingresos de conceptos variados como:
+
+Intereses
+
+Servicios Especiales
+
+Alquiler de Herramienta
+
+Alquiler de Equipos
+
+Para asignar los conceptos de "Otros Ingresos" ingrese por la opción:Vehículos > Otros Ingresos.
+
+Seleccione el enlace
+
+Ingrese elVehículoala cual le asignará el ingreso
+
+Seleccione elConceptodel ingreso
+
+Ingrese laFecha
+
+Ingrese elValordel ingreso
+
+Seleccione el **Cliente **
+
+IngreseObservaciones
+
+Para terminar haga clic en el botónCrear.
+
+Nota:Los camposVehículo, Concepto, Fecha, Valorson de carácter obligatorio.
+
+otros ingresos
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/vehiculos_disponibles/vehiculos_disponibles_graficas
+Título: Vehiculos Disponibles
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Vehiculos Disponibles
+## Disponibles Ahora​
+## Gráfica de Eventos​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Vehículos Disponibles
+
+Vehiculos Disponibles
+
+Desde esta opción usted podrá conocer los vehículos que se encuentran disponibles en este momento, y además podrá ver los vehículos que están ocupados en algún evento o tarea registrada en el sistema.
+
+La opción de vehículos disponibles se compone de dos secciones:
+
+Disponibles Ahora
+
+Gráfica de Eventos
+
+Desde este punto el sistema le permitirá conocer los vehículos que tiene disponible para usar, esto quiere decir, que no tienen eventos de mantenimiento programado, mantenimientos de llantas, ordenes abiertas, eventos personalizados o que se encuentren realizando un viaje.
+
+Se debe tener en cuenta los filtros que usara para realizar la consulta:
+
+Durante la siguiente, este será el rango de tiempo sobre la cual usted podrá ver los vehículos disponibles.
+
+Tolerancia, el sistema tomará los vehículos que tengan eventos entre el inicio y fin del rango de tiempo seleccionado en dicho filtro, sí el evento inicia o finaliza entre el rango de tolerancia indicado, los mostrará como disponibles, un ejemplo puede ser, una orden de trabajo tiene como hora de posible cierre 10:10 am , y realizó la consulta a las 10:00 am, con una tolerancia de 15 minutos, incluirá el vehículo como disponible.
+
+Importante:Al ingresar a ésta nueva opción, la informacion que se muestra se toma del momento justo en que se realiza la consulta. Usted podrá personalizar los filtros de tiempo que desea aplicarle a dicha consulta.
+
+Para generar la consulta de Vehículos disponibles siga los siguientes pasos:
+
+Ingrese al Menú deVehículos > Vehículos disponibles
+
+SeleccioneDurante la siguiente, el tiempo desea generar la consulta
+
+Seleccione laTolerancia, la que desea tener para generar la consulta
+
+Si desea usar Filtros adicionales, puede seleccionarlos, para hacerlo solo debe ingresar al enlace de
+
+Para finalizar haga clic enBuscar
+
+Después de generar la consulta el sistema le permitirá visualizar una gráfica (por tipo de vehículo) y seguido una tabla con el listado completo de los vehículos disponibles ahora. Sí usted desea ver una gráfica de la cantidad de vehículos disponibles por centros de costos, solo debe dar clic sobre la opción deGráfica por Centro de Costos.
+
+Con esta gráfica usted podrá visualizar de forma rápida los vehículos que tienen eventos o acciones programadas en el sistema, dichas acciones pueden ser: mantenimientos programados, ordenes de trabajo abiertas, eventos de llantas, viajes y eventos personalizados, ademas podrá modificar la fecha de inicio o fin del evento desde la misma pantalla.
+
+Es importanteaclarar, los eventos visualizados son los eventos cuya fecha y hora de fin son  iguales o superiores a la actual, sí la fecha de fin del evento ya paso, este no se mostrará en la gráfica.
+
+Para generar la gráfica de eventos debe seguir los siguientes pasos:
+
+Ingrese al Menú deVehículos > Vehículos disponibles
+
+Seleccione la opción deGráfica de Eventos
+
+SeleccioneTiempo, que es el tiempo en el que desea generar la gráfica
+
+Si desea usar Filtros adicionales, puede seleccionarlos ingresando al enlace de
+
+Para finalizar haga clic enBuscar
+
+Encontrará la convención sobre los colores que se muestran en la gráfica, sí el evento es personalizado, deberá dar clic sobre la opción de "Otros estados".
+
+Para visualizar mas informacion sobre el evento, solo debe dar clic sobre éste y el sistema le mostrara las fechas de inicio y finalización, así como el numero de la orden de trabajo, o el numero del viaje, ademas podrá modificar la fecha y hora del inicio o fin del evento, en caso tal que el evento sea un mantenimiento programado, podrá crear desde este punto una orden de trabajo, sí el evento es una orden de trabajo en curso, podrá modificar su fecha de inicio o de posible cierro, o cerrar la orden de trabajo.
+
+disponibles
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/personal/administrar_personal/configuracion_regional_usuario
+Título: Configuración regional de usuario
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Configuración regional de usuario
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Personal
+
+Administrar Personal
+
+Configuración regional de usuario
+
+El sistema le permite configurar por cada usuario el separador de miles y de decimales que usará en la aplicación. Cabe anotar que la configuración que establezca en la aplicación prevalecerá sobre la configuración de su computador (configuración regional) aunque para efectos de visualizar correctamente la información al momento de
+exportar datos, se recomienda que ambas configuraciones, la de cloudFleet y de su computador sean las mismas.
+
+Es muy importante tener en cuenta que, al registrar información en el software, use el separador de decimales que haya configurado en cloudFleet, pues de lo contrario el sistema no le permitirá grabar la información.
+
+Por defecto el sistema viene configurado con "punto" (.) para los separadores de miles y "coma" para los separadores de decimales. Sin embargo, usted puede cambiar esta configuración las veces que desee y en el momento que desee, esto con el fin de ajustar sus informes a sus preferencias o configuraciones del computador que está usando.
+
+Para definir el separador de miles y de decimales en cloudFleet, siga los siguientes pasos:
+
+Ingrese al menú:Empresa > Personal
+
+Ubique el usuario al que desea definirle la configuración regional
+
+Haga clic sobre el botón de"Seguridad y Datos Complementarios"
+
+Al lado izquierdo aparecerá un menú, ingrese a la opción"Conf. Regional":
+
+Luego:
+
+Ingrese el separado de miles que utilizará (Por ejemplo "punto" o "coma")
+
+Ingrese el separador de decimales que utilizará (Debe ser diferente al separador de miles)
+
+Seleccione el formato de la fecha que desea usar
+
+Seleccione su zona horaria
+
+Para finalizar haga clic sobre el botón"Grabar"
+
+usuarios
+
+zona horaria
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/personal/administrar_personal_tecnico/asignacion_especialidades
+Título: Asignación de Especialidades
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Asignación de Especialidades
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Personal
+
+Administrar Personal Técnico
+
+Asignación de Especialidades
+
+La asignación de especialidades para el personal técnico, solo estará activa cuando a una persona se le otorga el "Tipo de Cargo" de "Mecánico" y/o "Mecánico y Conductor".
+
+Mediante esta opción, se le podrá especificar a una persona laEspecialidad Técnicaque posee, basada en los sistemas y subsistemas creados en la cuenta y en los cuales están agrupados los trabajos de mantenimiento. por ej: sistema dirección, sistema lubricación, sistema eléctrico, etc. para hacerlo siga estos pasos:
+
+Ingrese a la opción del menú para cargar el personal:Empresa > Personal
+
+Del maestro de personas que se presenta, ubique la persona a la cual desea asignarle la especialidad.
+
+Haga clic en el icono de laSeguridad y Datos complementariosIngrese a la opción "Especialidades
+
+Del menú desplegable de "Sistemas", seleccione el sistema en el cual tiene especialización la persona.
+
+Tenga en cuenta que podrá asignarle a una misma persona varios sistemas a la vez.
+
+Para terminar con la asignación de las especialidades, presione en el botón "Crear"
+
+personal
+
+especialistas
+
+mecanicos
+
+tecnicos
+
+especialidades
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/vehiculos/vehiculos_disponibles/reportar_eventos
+Título: Reportar Eventos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Reportar Eventos
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Vehiculos
+
+Vehículos Disponibles
+
+Reportar Eventos
+
+El sistema tiene eventos o tareas predeterminadas en el sistema tales como, mantenimientos programados, ordenes de trabajo en curso, mantenimiento de llantas y viajes, en el caso dado de tener que asignar un evento diferente en el cual el vehículo estará ocupado realizando alguna labor, lo debe realizar desde este punto.
+
+Usted podrá tener eventos personalizados un ejemplo podría ser pico placa, o descargando mercancía, cabe aclarar que los eventos reportados desde este punto se visualizaran en la gráfica de eventos.
+
+Tendrá la opción de indicar si el evento tiene un tiempo estimado de duraci ón, o sí por el contrario, desconoce cuanto tardara, también lo puede indicar.
+
+Para reportar eventos siga los siguientes pasos:
+
+Ingrese al menú deVehículos > Vehículos Disponibles
+
+Ingrese a la pestaña deReportar Eventos
+
+Ingrese la identificación deVehículo
+
+Ingrese elConductor, si así lo desea, este campo es opcional
+
+SeleccioneEstadoque desea reportar
+
+Indique laFechayhorade Inicio
+
+Indique una fecha de en la queFinaliza, sí la desconoce, solo debe dar clic sobre la casilla de verificación "No se cuando finaliza"
+
+Para finalizar haga clic enCrear
+
+eventos
+
+reportar
+
+vehiculos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/configuracion_modulo_mantenimiento/crear_trabajo
+Título: Crear trabajos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear trabajos
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Configuración del módulo de mantenimiento
+
+Crear trabajos
+
+Los trabajos se constituyen en el eje central de la gestión del mantenimiento. Los nombres de los "Trabajos" suelen contener palabras claves que describen las acciones realizadas a los vehículos en el tema de mantenimientos, tanto preventivos como correctivos. por ejemplo:
+
+Cambio de aceite de motor, Revisión de frenos, Revisión de Niveles, Tensionar Bandas, Rectificar Motor, Cambiar Empaques, etc.
+
+Configure su  plantilla personalizada de "Trabajos" en el sistema.
+Para crear un trabajo ingrese por:
+
+Mantenimiento > Trabajos > Nuevo Trabajo
+
+Diligencie los campos que presenta el formulario
+
+Ingrese elNombredel trabajo
+
+Asigne un "Sistema" y a un "Subsistema". vea como crear"Sistemas/Subsistemas"
+
+Puede definir a la vez, si dicho trabajo pertenece a una "Rutina de Mantenimiento", para el caso que ya las haya definido.
+
+Según su conocimiento y experiencia defina el "Tipo de Trabajo" dentro de las opciones de: Preventivo, Correctivo y/o Preventivo-Correctivo.
+
+Adicional puede crear el trabajo concódigos internos(1 y 2) si fuera necesario.
+
+Al margen derecho del formulario, aplicará el trabajo para los tipos de vehículos que usted crea conveniente.
+
+Para finalizar con la creación del trabajo, haga clic en el botón "Crear"
+
+El usuario tiene además la posibilidad de importar el maestro de trabajos de dos formas diferentes:Importación desde Archivo
+
+mantenimiento
+
+trabajos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/preorden/introduccion_preorden
+Título: Introduccion a preorden
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Introduccion a preorden
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Preorden
+
+Introduccion a preorden
+
+La preórden de trabajo se usa para planificar y coordinar de forma eficiente las tareas de mantenimiento que se ejecutaran en una orden de trabajo. Es un documento preliminar que puede contener trabajos y repuestos, de tal manera que se puedan conocer los costos y aprobar o rechazar los items contenidos en el.
+
+mantenimiento
+
+preorden
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/orden_trabajo/aplicacion_movil_orden_trabajo
+Título: Aplicacion móvil - Orden de trabajo
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Aplicacion móvil - Orden de trabajo
+## Crear orden de trabajo​
+### Agregar Trabajo​
+### Agregar Repuesto​
+### Proveedor​
+### Inventario​
+## Agregar Rutina normal​
+## Agregar rutina secuencial​
+### Secuencia actual​
+### Secuencia Nueva​
+## Reporte de la orden de trabajo​
+## Modificar encabezado​
+## Cerrar​
+## Enviar por email​
+## Anular​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Orden de trabajo
+
+Aplicacion móvil - Orden de trabajo
+
+La orden de trabajo  cuenta con una aplicación móvil, en esta se da la posibilidad de crear y editar sus órdenes de trabajo de forma rápida, registrando sus datos básicos; ofreciendo una mejor experiencia.
+
+Para ingresar a la aplicación móvil de órdenes de trabajo siga los siguientes pasos:
+
+Ingrese a la aplicación móvil
+
+Ingrese a la aplicación móvil
+
+La aplicación le mostrará un listado de 50 vehículos.
+
+La aplicación le mostrará un listado de 50 vehículos.
+
+En la parte superior derecha de esta pantalla encontrará varias opciones como son:Buscar un vehículoOpción de ver el perfil del usuario que ingreso a la aplicación ó cerrar la opción de cerrar la sesión
+
+En la parte superior derecha de esta pantalla encontrará varias opciones como son:
+
+Buscar un vehículo
+
+Opción de ver el perfil del usuario que ingreso a la aplicación ó cerrar la opción de cerrar la sesión
+
+Sí usted desea hacer una orden de trabajo a un vehículo que no puede visualizar en la pantalla de su dispositivo, debe tocar sobre el icono de la lupa, el cual se encuentra en la parte superior derecha.
+
+Sí usted desea hacer una orden de trabajo a un vehículo que no puede visualizar en la pantalla de su dispositivo, debe tocar sobre el icono de la lupa, el cual se encuentra en la parte superior derecha.
+
+Ingrese los datos de la identificación del vehículo o equipo.
+
+Ingrese los datos de la identificación del vehículo o equipo.
+
+Toque la pantalla de su dispositivo sobre el vehículo o equipo para acceder a este.
+
+Toque la pantalla de su dispositivo sobre el vehículo o equipo para acceder a este.
+
+En la parte inferior de la pantalla, encontrará diferentes iconos que hacen referencia a los diferentes módulos de la aplicación móvil, toque el icono de mantenimiento
+
+Al ingresar al módulo de mantenimiento, encontrará dos opciones:
+
+Novedades de mantenimiento
+
+Ordenes de trabajo
+
+Para ingresar al modulo de la orden de trabajo, solo debe tocar la opción
+
+Al ingresar se presentarán dos opciones:
+
+Crear orden de trabajo
+
+Ver recientes
+
+Al ingresar a la opción deCrear orden de trabajo, se abre un formulario, sobre el cual se debe registrar información como:
+
+Fecha de ingreso al taller
+
+Fecha de la orden
+
+Fecha posible cierre
+
+Odómetro y/o horómetro
+
+Proveedor
+
+Se cuenta con una sección de Mas datos, en la cual tendrá la posibilidad de ingresar información como:
+
+Tipo de orden
+
+Etiquetas
+
+Conductor
+
+Observación general
+
+Motivo de ingreso
+
+Para crear la orden debe tocar el botón deGuardar
+
+Después de crear la orden de trabajo, se mostrará en la parte inferior derecha un botón el cual contiene diferentes opciones para ejecutar en la orden de trabajo, estas son:
+
+Agregar trabajó
+
+Agregar repuesto
+
+Agregar rutina secuencial
+
+Agregar rutina normal
+
+Al tocar el botón de trabajosse abre una pantalla en la cual se puede buscar el trabajo, solo se debe ingresar el nombre o parte del nombre;  se irán mostrando las coincidencias.
+
+Después de ubicar el trabajo, solo se debe tocar para agregarlo.
+
+Al tocar el botón de repuestosse abre una pantalla en la cual debemos indicar cual es la fuente del repuesto, ya sea deproveedor, o deinventario.
+
+Luego de seleccionar la fuente, debe tocar el botón decontinuarpara buscar el repuesto que desea agregar.
+
+Al seleccionar la fuente deproveedor, se mostrará una pantalla en la cual se debe ingresar el nombre o parte del nombre, y la aplicación le mostrará las coincidencias; para seleccionar el repuesto, solo debe tocar el nombre y este se agregara.
+
+Después de seleccionar el repuesto, visualizará una pantalla en la cual debe indicar la cantidad del repuesto que desea agregar, para finalizar solo debe dar en el botón deGuardar.
+
+Al seleccionar la fuente deinventario, se mostrará una pantalla en la cual se debe ingresar el nombre o parte del nombre, y la aplicación le mostrará las coincidencias, indicando la ubicación y la cantidad actual del repuesto; para seleccionar el repuesto, solo debe tocar el nombre de este.
+
+Después de seleccionar el repuesto, visualizará una pantalla en la cual debe indicar la cantidad del repuesto que desea agregar, para finalizar solo debe dar en el botón deGuardar.
+
+Los repuestos provenientes del inventario agregados en la orden de trabajo, contaran con una etiqueta que los identifica.
+
+Al tocar el botón de rutina normalse abre una pantalla en la cual se puede buscar por el nombre de la rutina, en el caso de tener una frecuencia o periodicidad definida, se mostrará un icono  de calendario al lado del nombre de la rutina
+
+Para agregar la rutina en la orden de trabajo solo debe tocar el nombre de la rutina.
+
+Al tocar el botón de rutina secuenciallo llevara a una pantalla en la cual se debe seleccionar
+el tipo de secuencia:
+
+Actual
+
+Hace referencia a las rutinas que ya fueron asignadas al vehículo, y cuentan con una programación creada. Al ir a esta opción, la aplicación nos puede mostrar dos listas desplegables:
+
+Seleccione una secuencia, son las secuencias que esta e curso para el vehículo, en este listado se visualizara el nombre de la secuencia, y la rutina que se agregaría.
+
+Seleccione secuencia para iniciar, en esta lista se mostraran las secuencias que ya completaron su ciclo actual, e iniciaran nuevamente. Solo se visualizara el nombre de la secuencia.
+
+Se debe tener en cuenta que solo se podrá seleccionar una de las opciones.
+
+Al ingresar a la opción de secuencia nueva, se mostraran dos listas desplegables, la primera cargara las secuencias que aplican para el vehículo; la segunda lista, mostrara el listado de las rutinas que hacen parte de la secuencia. Usted podrá seleccionar desde cual paso o rutina desea iniciar. Para agregar la rutina a la orden, solo debe oprimir el botón deGuardar.
+
+En el reporte se encontraran los trabajos (rutinas) y repuestos agregados en la orden de trabajo. Al tocar  los 3 puntos que están al lado de cada trabajo y repuesto, se activaran las opciones de modificar y eliminar el registro.
+
+En la parte superior derecha del reporte de la orden de trabajo, encontrara un botón, al tocar este, se mostrara la opción de
+
+Se mostrara la información del encabezado, y podrá modificar cualquier información que desee. Para guardar los cambios, solo debe tocar el botón deModificar.
+
+En la parte superior derecha del reporte de la orden de trabajo, encontrara un botón, al tocar este, se mostrara la opción de
+
+Debe indicar una fecha de cierre,  y puede realizar dos tipos de cierre:
+
+Cierre técnico, en este cierre no se podrán agregar o eliminar trabajos y repuestos, pero sí se puede realizar modificaciones a los valores, cantidades o proveedor.
+
+Cierre final, al realizar este cierre, no se podrá modificar ningún dato de la orden de trabajo.
+
+Desde esta opción tendrá la posibilidad de enviar desde su dispositivo móvil el informe de la orden de trabajo a una o varias direcciones, debe separarlas por comas (,), sí desea, puede ingresar una observación.
+
+Se puedeenviar todo el reporte, y adicional, indicar que información desea incluir o ocultar al momento de enviar el correo.
+
+La app le permiteenviar filtradopor el proveedor de la orden de trabajo, así como ocultar información que no desee enviar por medio del correo, esto se hace haciendo uso de los filtros.
+
+La app le permite anular  una orden de trabajo, solo debe ingresar un motivo de anulación.
+
+mantenimiento
+
+orden de trabajo
+
+aplicación
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/novedades_mantenimiento/crear_novedad
+Título: Crear novedad
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear novedad
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Novedades de Mantenimiento
+
+Crear novedad
+
+Las Novedades de Mantenimiento, son aquellas fallas o detalles de los vehículos y no son tan urgentes, pero se deben tener en cuenta al momento que el vehículo este en mantenimiento.
+
+Los conductores asignados los  vehículos podrán reportar novedades de los  vehículos y describir con sus propias palabras la novedad.
+
+Para acceder a la creación de Novedades de Mantenimiento realice los siguientes pasos:
+
+MenúMantenimiento > Novedades de Mantenimiento
+
+Seleccione la opción"NuevaNovedad"
+
+Llene el formulario el cual se compone por:
+
+Identificación delvehículo
+
+Fecha de Reporte - Hora, hace referencia al momento en que se     genera la novedad del Vehículo o Equipo.
+
+Reportada Por, ingrese el nombre de la persona que genera la     Novedad; para esto cuenta con una lista desplegable, la cual facilitara la búsqueda.
+
+Prioridad, este campo tiene 3 opcionesBaja, Medio, Urgente. Escoja una de estas según el criterio de quien reporta.
+
+Asociar al Trabajo, si la persona que reporta la novedad tiene conocimiento técnico sobre la novedad reportada, podrá encontrarla en esta lista, para agilizar el proceso de mantenimiento al momento de ejecutar la novedad.
+
+Observaciones, en este campo puede hacer una descripción detallada de la novedad que está reportando
+
+Finalice haciendo clic en el botónCrear.
+
+mantenimiento
+
+novedad
+
+novedades
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/programacion_mantenimiento/programar_mantenimiento
+Título: Programar mantenimiento
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Programar mantenimiento
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Programación de mantenimiento
+
+Programar mantenimiento
+
+Programar el mantenimiento del vehículo es de gran utilidad, pues usted puede indicarle la fecha y hora, como la medición en kilómetros de cuando desea realizar el mantenimiento, de igual forma el sistema le generara una alerta para esta programación de mantenimiento.
+
+Para acceder a esta opción, siga los siguientes pasos:
+
+MenúMantenimiento > Programar Mantenimiento.
+
+En este formulario tiene dos opciones, las cuales se encuentran en la parte superior del formulario; las cuales son:
+
+Ver informe de Programación de Mantenimiento.
+
+Programar Mantenimiento.
+
+Ingrese el vehículo, si la conoce, de lo contrario Busque el vehículo.
+
+Se abrirá un formulario, el cual se divide en 3 secciones:
+
+Información  del Vehículo.
+
+Información adicional
+
+Seleccionar el tipo de programación
+
+Información del vehículo
+
+Muestra información básica del vehículo.
+
+Información adicional
+
+Esta sección permite visualizar la configuración del vehículo en cuanto a distancia promedio por día, el tipo de programación (manual o automática)
+
+Programar
+
+En esta sección podrá indicar que tipo de programación desea realizar, ya sea por:
+
+Trabajo Individual
+
+Rutina Normal
+
+Rutina secuencial
+
+Trabajo Individual
+
+Usted podrá indicar el trabajo que desea programar y en el momento que desea ejecutarlo, solo debe seguir los siguientes pasos:
+
+Seleccione el trabajo que desea programar
+
+Ingrese la medición/horómetro a ejecutar
+
+Seleccione la fecha que desea realizar el mantenimiento
+
+Seleccione la duración de la actividad
+
+Seleccione el tipo de mantenimiento
+
+Para finalizar haga clic enCrear
+
+Rutina Normal
+
+El sistema le permite programar una rutina normal, solo debe seleccionar la rutina que desea programar y cuando desea ejecutarla, solo debe seguir los siguientes pasos:
+
+Seleccione la rutina que desea programar
+
+Ingrese la medición/horómetro a ejecutar
+
+Seleccione la fecha que desea realizar el mantenimiento
+
+Seleccione la duración de la actividad
+
+Seleccione el tipo de mantenimiento
+
+Para finalizar haga clic enCrear
+
+Al momento de buscar las rutinas, las que se muestran con el icono de calendario, son las que tienen definida una periodicidad o frecuencia para el vehículo.
+
+Rutina Secuencial
+
+Programe de una forma fácil sus rutinas secuenciales, solo debe seleccionar la rutina y el paso de la rutina que desea programar y cuando desea ejecutarla, solo debe seguir los siguientes pasos:
+
+Seleccione la secuencia de rutina
+
+Seleccione el paso que desea programar
+
+Ingrese la medición/horómetro a ejecutar
+
+Seleccione la fecha que desea realizar el mantenimiento
+
+Seleccione la duración de la actividad
+
+Seleccione el tipo de mantenimiento
+
+Para finalizar haga clic enCrear
+
+Las secuencias que no se muestran en la lista, son porque ya se iniciaron en una orden y cuentan con una programación vigente.
+
+mantenimiento
+
+programar
+
+programación
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/repuestos/crear_repuesto
+Título: Crear repuesto
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear repuesto
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Repuestos
+
+Crear repuesto
+
+En el sistema existen 2 formas de crear los repuesto (ya sea que hagan o no parte del inventario de la compañía): de manera manual, y a través de laimportación desde un archivo. En este artículo nos referiremos a la  primera (manual).
+
+Desde la creación del repuesto usted indicara si este hará parte del inventario o no, en el caso de ser afirmativo deberá indicar que este SI es inventariable.
+
+Para acceder a la creación de repuestos realice los siguientes pasos:
+
+Menú Mantenimiento > Repuestos
+
+Seleccione la opción
+
+Indicar un **Nombre del Repuesto **que identificara el repuesto dentro de la plataforma (y por lo tanto debe ser único).
+
+SeleccionarUnidadde medida del repuesto, ejemplo: Galones, litros.
+
+Indique sí el repuesto esInventariable
+
+Indique LaExistencia Mínima,si no la desea ingresar, dígite 0.
+
+Indique LaExistencia Máxima,si no la desea ingresar, dígite 0.
+
+Además, de manera opcional, podrá especificar igualmente:
+
+ElCódigo interno, Grupo de Repuesto, Sistema, Subsistema,
+
+Activo(Si o No) yObservaciones.
+
+Para finalizar haga clic enCrear
+
+El valor que usted ingrese en elValor Promedio, será el valor que visualizara en el presupuesto de las rutinas de mantenimiento, como en el presupuesto de programación de mantenimiento.
+
+mantenimiento
+
+repuestos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/mecanicos_actividades/pasos_para_gestionar_taller_interno
+Título: Pasos para gestionar taller interno
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Pasos para gestionar taller interno
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Mecánicos y actividades
+
+Pasos para gestionar taller interno
+
+Para poder realizar una gestión integral de taller interno, en el cual se asignan actividades o trabajos a los mecánicos, y se puedan medir en tiempo real cuánto tarda un técnico (mecánico), y para poder realizar todo esto, se deben seguir unos pasos, los cuales se irán describiendo en este articulo.
+
+Crear los técnicos (mecánicos) en el sistema y que se definan de tipo "Mecánico", pues solo se puede asignar los trabajos a las personas de este tipo. (Crear personal).
+
+Crear un perfil nuevo y tener acceso a un panel exclusivo para técnicos, y para esto puede crear a una persona que se llame "Taller", el cual tendrá acceso al sistema y que sera de tipo técnico, al igual que se le puede definir el usuario como "taller" (Asignar Usuario).
+
+Después de crear el perfil de taller interno y definir suusuario, se debe proceder acrear y asignar el grupo de usuarioque tendrá nuestro taller, para esto el grupo debe contar con el permiso de "Consultar Trabajos Asignados", con este permiso, ya podrá hacer uso de elpanel de técnicos.
+
+Se debe tener en cuenta que, el sistema tiene la opción de segmentar en diferentes talleres internos, pues sí su empresa cuenta con diferentes sucursales puede crear un taller por sucursal y que a este estén asociados solo los técnicos de dicha sucursal.
+
+Después de crear el perfil de taller, debemos ir a buscar este en el personal e ingresar a la opción de Seguridad y datos complementarios, ingresamos a la opción de "Talleres internos", y seleccionar el nombre del taller al cual desea hacer gestión, recuerde que también debe asociar el mismo taller a los mecánicos (técnicos) que desea vincular a este taller. (crear talleres), (asociar técnicos a talleres)
+
+mantenimiento
+
+taller interno
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/consultas/programcion_mantenimiento
+Título: Programación de mantenimiento
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Programación de mantenimiento
+## Para Hoy​
+## Próximas​
+## Consulta Avanzada​
+## Proyección​
+#### Grafica proyeccion​
+#### Datos de proyección​
+#### Tabla de datos presupuestado por mes​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Consultas
+
+Programación de mantenimiento
+
+Visualice desde este punto los mantenimientos programados ejecutados o pendientes por realizar de la flota, ya sean de mantenimientos programados de forma manual, o de forma automática; estos últimos son por medio de una configuración de periodicidades (frecuencias) de los (mantenimientos preventivos). así que el sistema le proporciona estas dos formas de programar los mantenimiento, de forma manual y de forma automática.
+
+Cuando hablamos de una programación manual, es sencillo, solo se deben ingresar unos datos básicos, es decir, cuando se debe realizar el mantenimiento (fecha o medición), y el sistema nos programara y alertara cuando este próximo a ejecutarse (ver programación manual)
+
+En la programación automática se deben tener varios puntos en cuenta:
+
+Conocer y definir muy bien el plan de mantenimiento.
+
+Crear las periodicidades (frecuencia) para los trabajos y sí es el caso, crear rutinas de mantenimiento y definir las periodicidades.
+(ver periodicidad trabajos) (ver periodicidad de rutinas).
+
+Para que un mantenimiento al cual se le definiera una periodicidad (trabajos o rutinas) inicie su ciclo, se debe agregar en una orden de trabajo, y sí su configuración fue dada en medición (Km, Horas, millas, etc), se debe ingresar en la orden de trabajo la medición que tenia el vehículo al momento de ejecutar el mantenimiento.
+
+Para acceder a esta consulta ingrese al menú deConsultas > Mantenimiento > Programación de Mantenimiento
+
+Esta consulta se divide en cuatro pestañas (secciones):
+
+Para hoy
+
+Próximas
+
+Consulta Avanzada
+
+Proyección
+
+En la parte media de la pantalla se encuentra una franja en color azul claro, en la cual podrá visualizar los filtros que esta usando en la consulta, esta franja aplica en las tres primeras pestañas; de esta manera tendrá siempre visible los filtros usados.
+
+Botón de Mas acciones
+
+En las pestañas de "para hoy, próximas y consulta avanzada", encontrara al lado izquierdo de cada registro un icono, sí da clic sobre este podrá realizar varias acciones como modificar, eliminar la programación  o crear una orden de trabajo para el
+mantenimiento programado.
+
+Botón de Filtros/Columnas
+
+En este botón encontrara dos pestañas, una de filtros, la cual contiene diferentes filtros para realizar una búsqueda mas precisa, la otra pestaña es la de columnas, que hace referencia a las columnas a mostrar en la consulta, dependiendo de la pestaña en la que se encuentre(para hoy, próximas o consulta avanzada), cambiaran los filtros y las columnas.
+
+En los filtros encontrara el de "Incluir con Fecha Calculada por el sistema", sí se usa este filtro, el sistema calculara para que fecha en que se debe realizar el mantenimiento de acuerdo a la distancia promedio por día que el vehículo tenga configurado, esto solo aplica para las programaciones que están dadas solo en medición (kilómetros, horas, etc)
+
+Tenga en cuenta, la columna de tarea puede contener el nombre del trabajo o el nombre de la rutina, sí es rutina, se visualiza fácilmente, pues se muestra como un hipervinculo, y si da clic sobre este, podrá visualizar los trabajos que componen la rutina.
+
+Esta pestaña le permite visualizar los mantenimientos programados que a la fecha están vencidos o vencen hoy, ya sea por fecha o por medición, si desea ver solo los vencidos, puede ingresar al botón fe filtros y seleccionar el filtro.
+
+En esta sección encontrara los mantenimientos programados que están próximos a vencer, de acuerdo con la configuración de alertas de mantenimiento, de esta forma podrá hacer un aprovisionamiento y una programación adecuada de los recursos para realizar estos mantenimiento. Recuerde, en la sección de filtros se encuentra la opción de "Incluir con Fecha Calculada por el sistema", si desea que el sistema calcule la posible fecha de ejecución, de acuerdo a la distancia promedio por día
+que tiene configurado el vehículo.
+
+En esta sección de la consulta podremos encontrar la información de "cuando se hizo" o en "cuanto falta" para ejecutar un trabajo o una rutina de mantenimiento, es decir, la información completa de programaciones.
+
+Se cuenta con diferentes filtros para realizar la consulta, y obtener la información exacta que deseamos; es muy importante que tenga en cuenta que para realizar es consulta se debe ingresar al menos uno de los cuatro primeros filtros los cuales son:
+
+Fecha a ejecutar, hace referencia a la fecha en la cual se debe ejecutar el mantenimiento.
+
+Fecha de creación,es la fecha en que se creo la programación, es diferente a la fecha a ejecutar.
+
+Fecha de ejecución,indica la fecha en que el mantenimiento programado se ejecuto, esta fecha solo mostrara información de trabajos ejecutados.
+
+Vehículo, ingrese la placa del vehículo.
+
+Trabajo, ingrese el nombre del trabajo por el cual desea realizar la búsqueda.
+
+Rutina de mantenimiento, seleccione la rutina de mantenimiento que desea consultar.
+
+Sí su programación de mantenimiento esta dada en medición, puede seleccionar el filtro de "Incluir con Fecha Calculada por el sistema" de esta forma sistema le mostrara una columna proyectando cuantos días faltan para ejecutar el mantenimiento, sí esta configurado en días, el sistema de indicara cuantos días faltan para ejecutar dicho
+mantenimiento, y sí la periodicidad fue configurada en fecha y medición, el sistema indicara su vencimiento para una fecha y medición especifica, y la alerta se generara cuando uno de estos dos este cerca de cumplirse.
+
+Cuando la periodicidad esta configurada solo en medición, el sistema no sabe la fecha en la cual se debe ejecutar el  mantenimiento, el sistema cuenta con la opción de calcular la fecha en que este se debe ejecutar; para obtener esta fecha es necesario que definamos la distancia promedio que el vehículo recorre en un día, de esta forma el sistema podrá informarle una fecha aproximada en la cual se debe ejecutar el mantenimiento. (ver actualización masiva del recorrido promedio de los vehículos)
+
+Después de seleccionar los filtros y las columnas que desea visualizar, solo debe dar clic enAplicarel sistema le mostrara la informacion deseada, en la franja azul encontrara la informacion de los filtros que se usaron, y seguido encontrara un resumen sobre la cantidad de trabajos y rutinas encontradas.
+
+Al generar la consulta encontrara dos opciones de Datos y Gráfica, solo debe dar clic sobre Gráfica para poder visualizar una gráfica indicando el estado de las programaciones y cuales de estas se han hecho y de las que se han ejecutado cuantas se hicieron a tiempo, esto le permitirá tener un indicador fácil de leer sobre los datos consultados.
+
+En el caso de desear modificar o eliminar las fechas o mediciones a ejecutar de una rutina, solo debe acceder al lápiz desde cualquiera de las pestañas, el sistema le mostrara una pantalla en la cual puede hacer una modificación masiva o la eliminación de varios o todos los trabajos programados de una rutina para una placa en especifico.
+
+Esta consulta le permitirá saber cuantos mantenimientos debe realizar en un rango de tiempo, así como el presupuesto de estos mantenimientos (costos de mano de obra y repuestos). Existe una marcada diferencia entre:
+
+Programación de mantenimiento indica el próximo evento ó la próxima ejecución del mantenimiento (cambiar aceite)
+
+Programación de mantenimiento indica el próximo evento ó la próxima ejecución del mantenimiento (cambiar aceite)
+
+Mantenimiento proyectado es la cantidad de veces que la rutina normal o secuencial se ejecutara en un tiempo determinado por vehículo (ejemplo: cambiar aceite).
+
+Mantenimiento proyectado es la cantidad de veces que la rutina normal o secuencial se ejecutara en un tiempo determinado por vehículo (ejemplo: cambiar aceite).
+
+Debe tener en cuenta que solo se mostraran los mantenimientos que tienen su periodicidad definida en días; ó si esta se definió distancia, el vehículo debe tener configurado el recorrido promedio por día. (ver actualización masiva del recorrido promedio de los vehículos)
+
+También debe tener en cuenta que solo se mostraran los mantenimientos cuya primera fecha de ejecución es mayor a la fecha actual.
+
+Para realizar la consulta, siga los siguientes pasos:
+
+Ingrese a la sección "Proyección"
+
+Ingrese laFecha hastala cual desea proyectar los mantenimientos (obligatorio)
+
+Puede seleccionar mas filtros
+
+Ingrese la identificación delVehículo(opcional)
+
+Ingrese elNombre del Trabajoque desea proyectar el mantenimiento (opcional)
+
+Seleccione la **Rutina **de mantenimiento (opcional)
+
+Puedeseleccionar las columnasque desea incluir en la consulta
+
+Para finalizar haga clic enConsultar
+
+El resultado de la consulta se divide en:
+
+Gráfica de proyección de costos
+
+Datos de la consulta, genera un archivo con la totalidad de los registros.
+
+Tabla de datos, le permite visualizar el valor de los mantenimientos por mes, además puede exportar los mantenimientos proyectados mes a mes.
+
+mantenimiento
+
+programación
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/personal/administrar_personal_tecnico/talleres_internos_para_mecanico
+Título: Talleres internos para mecanicos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Talleres internos para mecanicos
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Personal
+
+Administrar Personal Técnico
+
+Talleres internos para mecanicos
+
+Esta configuración le da la opción de tener talleres internos (sí desea, más de uno), esto le permitirá hacer una segmentación de los talleres, un ejemplo puede ser, tener talleres en diferentes sectores de la ciudad o incluso, en diferentes ciudades, esta configuración hará que los trabajos asignados a los técnicos que pertenezcan a un taller interno determinado solo vean esos trabajos y no la totalidad de estos, podemos dar un ejemplo, se han asignado 25 trabajos en total a los técnicos, si
+18 trabajos están asignados a los técnicos de la "zona centro", al ingresar con el perfil de un técnico que esta asociado a la "zona centro", solo visualizara los 18 trabajos, los otros 7 solo los podrán ver los técnicos que tengan acceso al otro taller.
+
+En este punto indicara a cual taller o talleres internos estará asociado el mecánico (técnico).
+
+Debe tener presente, la cuenta trae predeterminado un taller llamado"Taller interno", usted podrá modificar este nombre por ejemplo:"Taller Zona Oriente", pero no podrá eliminar el taller que el sistema trae por defecto
+
+Para crear nuevos talleres internos debe:
+
+Ir al menú deEmpresa > Configuración > Mantenimiento > Talleres internos
+
+Ingrese el nombre del nuevo taller interno
+
+Para finalizar haga clic eCrear
+
+Debe tener presente, la cuenta trae predeterminado un taller llamado"Taller interno", usted podrá modificar este nombre por ejemplo:"Taller Zona Oriente", pero no podrá eliminar el taller que el sistema trae por defecto.
+
+Es importante resaltar, un mecánico tiene que estar asociado como mínimo a un taller.
+
+Para crear nuevos talleres internos debe:
+
+Ir al menú deEmpresa > Personal
+
+Ubique el usuario de tipo"Mecánico"
+
+Ingrese a la opción deSeguridad y datos complementarios
+
+Al lado izquierdo seleccione la opción deTalleres Internos
+
+Seleccione los talleres a los cuales tendrá acceso el Mecánico (técnico)
+
+Para finalizar haga clic enGuardar.
+
+taller interno
+
+mecanicos
+
+especialistas
+
+personal
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/viajes/rutas/nueva_ruta
+Título: Nueva ruta
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Nueva ruta
+## Información Básica​
+## Vías​
+## Liquidación y Combustible​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Viajes
+
+Nueva ruta
+
+El sistema le permite contener dentro de una Ruta (ciudad origen y ciudad destino), diferentes vías de acceso. Usted podrá asignar a cada vía sus respectivos gastos estimados del viaje y el combustible estimado que se puede consumir en el viaje.
+
+Para acceder a la creación de las rutas realice los siguientes pasos:
+
+Menú Viajes > Rutas
+
+Seleccione la opción
+
+La creación de las rutas está divido en 2 secciones principales:
+
+Información Básica y Vías.
+
+En la sección de la Información Básica es el lugar donde usted deberá:
+
+Especificar unOrigenque permita identificar desde donde saldrá el viaje.
+
+Especificar unDestinoque permita identificar a donde llegara el viaje.
+
+Ingrese Código (opcional)
+
+Ingrese Observaciones (Opcional)
+
+Existen dos formas de crear los Origen y Destino, desdeConfiguracióno desplegando la lista de Origen al final de la lista muestra la opción Nuevo Orígenes/Destinos; se abrirá un formulario, ingrese el nombre de Origen/Destino.
+
+En la sección de Vías es el lugar donde usted deberá:
+
+Especificar unNombreque permita identificar una vía
+
+Indicar unCódigo(opcional)
+
+Especificar unaDistanciaen Kilómetros
+
+Especificar laDuraciónen Horas o Días
+
+Para Finalizar ha clic eCrear
+
+Después de crear las vías, se mostrara en la parte inferior del formulario dos pestañasLiquidaciónyCombustible.
+
+Notael ingreso de la información de estas pestañas es opcional.
+
+Liquidaciones
+
+En la pestaña de Liquidación es el lugar donde usted deberá:
+
+Especificar unaVía.
+
+Especificar un **Concepto de Pago **desplegando la lista
+
+Especificar laCantidad
+
+Especificar elValor Unitariodel concepto de pago
+
+IngreseObservaciones(opcional)
+
+Para Finalizar ha clic enCrear
+
+Combustibles
+
+En la pestaña de Combustible es el lugar donde usted deberá:
+
+Especificar unaVía.
+
+Especificar laMarcayLíneadel vehículo
+
+Especificar laCantidadyCosto Totaldel combustible
+cargado.
+
+Ingrese Observaciones (opcional)
+
+Para Finalizar ha clic eCrear
+
+El valor del combustible es un estimado sobre lo que puede gastar un
+vehículo con esas características para esa ruta y esa vía.
+
+viajes
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/viajes/viajes_anticipos/crear_viaje
+Título: Crear viaje
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear viaje
+## Datos del Vehículo​
+## Datos del Viaje​
+## Datos del Anticipo de la Persona​
+## Documentos Vencidos​
+### ​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Viajes
+
+Viajes y Anticipos
+
+Crear viaje
+
+Desde este punto usted puede crear los viajes con sus respectivas rutas y vías, así como el valor del anticipo asignado al conductor, podrá registrar información como:
+
+Rutas y Vías.
+
+Asignar conductor.
+
+Especificar el anticipo al conductor.
+
+Especificar la carga
+
+Especificar las deducciones
+
+Especificar las deducciones al flete.
+
+Especificar los pagos realizados por los clientes.
+
+Para acceder a la creación de un viaje realice los siguientes pasos:
+
+Menú Viajes > Viajes y Anticipos
+
+Ingrese el vehículo, si desconoce su identificación use el buscador representado por una Lupa.
+
+Haga clic en el botón Crear
+
+Aparecerá un formulario que se divide en 3 secciones que son:
+
+Datos del Vehículo
+
+Datos del Viaje
+
+Datos del Anticipo a la Persona
+
+Documentos Vencidos
+
+Muestra la información básica del vehículo, como los equipos vinculados al vehículo, solo debe dar clic sobre el enlace Ver Equipos Vinculados.
+
+Vea como =>Vincular Equipos
+
+En este punto es donde usted podrá indicarle al sistema cual sera la ruta y la vía por la cual vehículo realizara el viaje, al igual que el conductor asignado para ese viaje.
+
+Ingrese la información de:
+
+Seleccione laRutadel viaje
+
+Seleccione laVíade la ruta (si esta la tiene)
+
+SeleccionePersonael sistema trae por defecto el conductor asignado a ese vehículo, o puede seleccionar otro conductor.
+
+Indique laFecha de Salidadel viaje al igual que la hora.
+
+Ingrese laMedición de Salida(Kilometraje)
+
+Vea como =>Crear Ruta
+
+Desde esta sección puede asignar al viaje un acompañante, como asignarle un centro de costos al viaje. Para hacerlo solo debe hacer clic sobre el enlace Mostrar datos de asignación
+
+Desde este punto usted también puede puede crear:
+
+Centros de Costos
+
+Primer grupo
+
+Segundo Grupo
+
+Ciudad
+
+Solo debe ir al final de cada lista desplegable. e ingresar a la opción de crear.
+
+El valor del anticipo hace referencia a los gastos asociados al viaje, estos se indican al momento de crear la ruta, en caso de no ser este el
+valor entregado al conductor ingrese al valor de forma manual.
+
+En el momento que usted visualice el enlace de, usted puede hacer ajustes a los saldos del conductor, ya sean a favor o en contra.
+
+Para hacer ajustes a los saldos del conductor siga los siguientes pasos:
+
+Haga clic en el enlace
+
+Ubique el saldo que desea ajustar (a favor o en contra)
+
+Ingrese el valor que deseaPagaroDescontar
+
+Para finalizar haga clic enGrabar
+
+Para finalizar la creación del viaje haga clic enCrearque esta en la parte inferior del formulario.
+
+Solo se muestra el saldo de los viajes que ya fueron liquidados y cerrados.
+
+En el caso que un vehiculo o conductor tenga documentos vencidos registrados en el sistema, aparecerá una alerta informando cuales son los documentos vencidos.
+
+Si desea crear el viaje haga clic enCrear viaje de todos modos
+
+Haga clic en Cancelapara abortar la creación del viaje
+
+viajes
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/viajes/asignar_recibos_egresos/asignar_recibos_egreso
+Título: Asignar recibos de egresos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Asignar recibos de egresos
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Viajes
+
+Asignar recibos de egresos
+
+Asignar recibos de egresos
+
+Un recibo o comprobante de egreso se utiliza para registrar de forma contable todas las salidas de dinero de la empresa, especialmente en este caso por motivo de pago a proveedores de los gastos de un viaje, de igual forma pude indicar el numero de cheque, si este fue generado para realizar el pago.
+
+La asignación se puede hacer tanto a uno como a varios viajes por cada recibo.
+
+Para asignar el recibo a los anticipos siga los siguientes pasos:
+
+Ingresa aViajes > Asignar Recibos de Egreso
+
+Seleccione en la casilla de verificación los viajes a los que le asignara el recibo.
+
+Ingrese elRecibo Nro
+
+Ingrese elCheque Nro
+
+Para Finalizar Haga clic enAsignar recibo
+
+Desde el iconopodrá visualizar el informe del viaje.
+
+recibos
+
+egresos
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/viajes/liquidar_anticipos/conceptos_liquidacion
+Título: Conceptos de liquidación
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Conceptos de liquidación
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Viajes
+
+Liquidar anticipos
+
+Conceptos de liquidación
+
+El sistema le permite crear todos los conceptos de liquidación que usted requiera para identificar los gastos realizados en el viaje; unos ejemplos de conceptos pueden ser Alimentación, Hospedaje, etc...
+
+Para acceder a la creación de nuevos conceptos de liquidación realice los siguientes pasos:
+
+Menú Viajes > Liquidar Anticipos
+
+Seleccione la
+opción
+
+Ingrese elConceptode liquidación
+
+Seleccione elTipo Conceptode la lista desplegable que trae diferentes opciones.
+
+IngreseCódigo(opcional)
+
+Para finalizar haga clic enCrear
+
+viajes
+
+conceptos
+
+liquidación
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/viajes/ajustes_de_saldo/ajustar_saldos
+Título: Ajustar saldos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Ajustar saldos
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Viajes
+
+Ajustes de saldo
+
+Ajustar saldos
+
+En cualquier momento que lo requiera, usted puede realizar un pago parcial o total al saldo de un conductor.
+
+El sistema solo mostrara los saldos de conductores cuyos viajes asignados esten cerrados y liquidados.
+
+Para realizar el pago sigla los siguientes pasos:
+
+Acceda alMenú Viajes > Ajustes de Saldo
+
+Ubique el conductor al que desea ajustar el saldo, para esto despliegue la lista.
+
+Haga clic sobre el nombre del conductor.
+
+Para finalizar la haga clic enVer
+
+El sistema en la columna "Tipo Saldo", indicara si es a favor o en contra del conductor.
+
+Ubique el viaje al cual desea realizar el pago
+
+Haga clic en el enlace de Pagar.
+
+En la parte inferior aparecerá un pequeño formulario donde ingresara:ElValor a Pagar, puede ser total o parcial.Fecha PagoPara finalizar haga clic enGrabar
+
+ElValor a Pagar, puede ser total o parcial.
+
+Fecha Pago
+
+Para finalizar haga clic enGrabar
+
+viajes
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/mantenimiento/consultas/tiempos_mantenimiento
+Título: Tiempos de mantenimiento
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Tiempos de mantenimiento
+### Tiempo medio entre fallas (TMEF)​
+### Tiempo promedio para reparar (TPPR)​
+### Confiabilidad​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Mantenimiento
+
+Consultas
+
+Tiempos de mantenimiento
+
+El sistema le permite tener indicadores de tiempo de mantenimiento, los cuales son muy importantes para su gestión, pues podrá saber cual es el tiempo promedio que se tarda en reparar un vehículo, el promedio de tiempo en el cual falla un vehículo y el  % confiabilidad.
+
+Estos indicadores los podrá generar en gráfico y con linea de tiempo, en las cuales se muestra el rango de tiempo indicado y el comportamiento de cada indicador.
+
+Esta consulta le permite realizar un filtro de meses o un rango de fechas, al igual que diferentes filtros, uno de ellos permite incluir ordenes abiertas o no, es muy importante este filtro, pues sí se cuenta con ordenes de trabajo abiertas se obtendrá información precisa.
+
+Esta consulta cuenta con la opción de  seleccionar uno o varios centros de costos o ciudades, para hacer mucho mas precisa la consulta.
+
+Los indicadores de mantenimiento que podrá visualizar en esta consulta son:
+
+Tiempo medio entre fallas (TMEF)
+
+Tiempo promedio para reparar (TPPR)
+
+Porcentaje de confiabilidad
+
+El tiempo medio entre fallas o distancia media entre fallas, es el promedio de tiempo transcurrido entre una falla y otra, se debe tener en cuenta que cuando se esta creando una orden de trabajo, puedo marcar esta orden como una falla, este es el tiempo.
+
+Ademas, se cuenta con la manera de agrupar por tipo de vehículo, o ciudad, o centro de costos.
+
+El tiempo promedio para reparar, es la sumatoria de horas que transcurren en las ordenes de trabajo reportadas como fallas dividido por la cantidad de ordenes reportadas como falla.
+
+Ademas, se cuenta con la manera de agrupar por tipo de vehículo, o ciudad, o centro de costos.
+
+El porcentaje de confiabilidad, hace referencia a que tan confiable es un vehículo en el futuro teniendo en cuenta su historial de fallas y el tiempo que se tarda en reparar estas, de esta manera se podrá saber que tan confiable es; este indicador solo lo podremos tener para los vehículos que se miden en horas.
+
+La fórmula de laConfiabilidad= TMEF/(TMEF+TPPR) * 100
+
+Ademas, se cuenta con la manera de agrupar por tipo de vehículo, o ciudad, o centro de costos.
+
+mantenimiento
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/compras_inventarios/solicitudes_cotizaciones/solicitudes
+Título: Solicitudes
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Solicitudes
+## Asignar Proveedor​
+## Anular Solicitud​
+## Modificar Solicitud​
+## Cerrar Solicitud​
+## Matriz de Cotización​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Compras e Inventarios
+
+Solicitudes y Cotizaciones
+
+Solicitudes
+
+Para acceder a la búsqueda y acciones de las solicitudes realice los siguientes pasos:
+
+Menú Inventarios > Solicitudes y Cotizaciones
+
+Seleccione el botón de Solicitudes.
+
+Al acceder al botón de solicitudes y ampliar la información en el botón de "Filtrar por", usted tendrá diferentes opciones como son:
+
+Estado
+
+Fechas
+
+Vehículo
+
+Solicitud creada por
+
+Solicitud nro
+
+Finalice haciendo clic en el botón"Filtrar"
+
+Ubique la solicitud que usted esta buscando.
+
+Al lado izquierdo se encuentra el botón de Mas Acciones, el cual contiene las siguientes opciones:
+
+Ver Informe
+
+Asignar proveedor
+
+Anular Solicitud
+
+Modificar Solicitud
+
+Cerrar Solicitud
+
+Ver matriz de cotización
+
+Haga clic en el icono de Asignar Proveedor
+
+Seleccione elProveedor
+
+Indique laFecha de Vencimientode la cotización.
+
+Para finalizar haga clic enAsignar
+
+Luego de asignar los proveedores a la cotización, puede hacer diferentes acciones como:
+
+Modificar: puede modificar el proveedor seleccionado.
+
+Eliminar: puede eliminar el proveedor seleccionado.
+
+Enviar por Mail: enviar por correo electrónico la cotización para ser diligenciada por el proveedor.
+
+Llenar manualmente: usted puede llenar manualmente la cotización si así lo desea.
+
+La cotización se enviara al correo electrónico que usted halla ingresado al momento de crear el proveedor. (Comocrear un Proveedor)
+
+Haga clic sobre el icono de Anular
+
+El sistema le pide confirmar la anulación, al confirmar la acción ingrese el motivo de la anulación.
+
+Para Finalizar haga clic enAnular Solicitud
+
+Haga clic sobre el icono de Modificar
+
+El sistema le permite modificar, o eliminar los insumos de esa solicitud
+
+Haga clic sobre el icono de Cerrar Solicitud
+
+El sistema le permite Cerrar la solicitud
+
+Debe tener en cuenta que el sistema no le va a permitir cerrar la solicitud si tiene cotizaciones sin cerrar.
+
+Haga clic sobre el icono de Ver matriz de cotización
+
+Usted podrá observar las cotizaciones que cada uno de los proveedores diligencio.
+
+Indique al sistema a que proveedor desea realizarle la compra de acuerdo a la cotización.
+
+Para finalizar cada cotización debe dar clic en el botónCerrar Cotización.
+
+Después de cerrar la cotización, haca clic sobre el botón de, de esta forma podrá seguir con el proceso de la compra.
+
+compras
+
+inventarios
+
+solicitudes
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/compras_inventarios/inventario_fisico/inventario
+Título: Inventario Fisíco
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Inventario Fisíco
+## Seleccionar la Ubicación**​
+## Registrar conteo​
+## Finalizar conteo y realizar ajustes​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Compras e Inventarios
+
+Inventario Físico
+
+Inventario Fisíco
+
+El inventario físico le permite determinar y ajustar la información del sistema a la existencia real de los repuestos pertenecientes a la Empresa los cuales se encuentren guardados en los diferentes Almacenes o Bodegas. Usted puede indicar al sistema que su bodega tiene más o menos unidades de un repuesto.
+
+Para acceder al Inventario Físico realice los siguientes pasos:
+
+Menú Inventarios > Inventario Físico
+
+Desde esta pantalla usted podrá visualizar dos secciones:
+
+Inventarios físicos pendientes por realizar, estos son los inventarios que en algún momento usted inicio pero no lo finalizo, puede finalizarlo dando clic sobre el icono verde , o si desea eliminarlo solo debe dar clic sobre la equis roja.
+
+Inventarios físicos realizados, son los inventarios que se han realizado, podrá ver el informe dando clic sobre el icono de la lupa.
+
+Si desea crear un nuevo inventario físico siga los siguientes pasos:
+
+Haga clic sobre el enlace
+
+El inventario físico se divide en 3 pasos:
+
+Seleccionar la Ubicación
+
+Registrar conteo
+
+Finalizar conteo y realizar ajustes
+
+Ingrese la fecha y hora en la que realizara el inventario físico.
+
+Seleccione la ubicación o ubicaciones a las cuales desea realizar el inventario físico, Debe tener en cuenta que la ubicación que seleccione quedara bloqueada hasta que finalice el inventario físico.
+
+Luego haga clic en el botónContinuar
+
+Ingrese el nombre delRepuesto
+
+Indique laCantidad(real)
+
+Ingrese unaObservación, si esta se requiere
+
+Para finalizar haga clic enAdicionar
+
+Repita este proceso hasta que halla contado e ingresado todos los repuestos contados.
+
+Después de ingresar los repuestos y sus respectivas cantidades contadas, usted debe "finalizar el conteo y realizar ajustes"; de esta forma dejar registro de las cantidades contadas y realizar el ajuste respectivo a cada uno de los repuestos contados.
+
+Para grabar solo debe dar clic sobre el
+botón
+
+Luego de finalizar, el sistema le genera un mensaje donde puede ver el informe del inventario.
+
+compras
+
+inventarios
+
+inventario fisico
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/compras_inventarios/movimientos/registrar_compra
+Título: Registrar Compra
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Registrar Compra
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Compras e Inventarios
+
+Movimientos
+
+Registrar Compra
+
+El sistema le permite registrar compras directamente, sin tener que pasar por el proceso de solicitud, cotización y orden de compra.
+
+Para acceder a la Creación de una Compra realice los siguientes pasos:
+
+Menú Inventarios > Movimientos
+
+Ingrese al enlace
+
+El formulario se divide en tres secciones:Datos Básicos,Datos de Remisión y Detalle de Compra.
+
+Datos Básicos
+
+Busque y seleccione elProveedorde los repuestos
+
+Indique laFecha y hora del movimiento
+
+Indique laFactura del Proveedor
+
+IngreseObservacionesque requiera
+
+Datos de Remisión
+
+Ingrese laFecha de Remisión
+
+Indique elNúmero de Remisión
+
+Datos de Factura
+
+Ingrese laFecha de factura
+
+Ingrese elNúmero de Factura
+
+Ingrese laFecha de Radicado
+
+Debe ingresar datos en el campo Factura Proveedor o Remisión Proveedor.
+
+Datos de Compra
+
+Seleccione elRepuestoque desea agregar a la compra
+
+Ingrese laCantidad.
+
+IngreseValor Unitariodel repuesto.
+
+IngreseDescuento Unitario(%) o en Dinero.
+
+IngreseObservaciones(opcional)
+
+Para finalizar la creación de cada repuesto haga clic enCrear
+
+Para finalizar el ingreso de datos de la compra haga clic
+enGrabar Movimiento de Inventario.
+
+Puede crear todos los repuestos que desee en una compra.
+
+Los repuestos que desee agregar deben ser creados con anterioridad.
+
+El movimiento de compra, debe ser el ultimo movimiento en orden cronológico.
+
+compras
+
+inventarios
+
+compra
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/compras_inventarios/orden_compra/crear_orden_compra
+Título: Crear orden de compra
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Crear orden de compra
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Compras e Inventarios
+
+Orden de Compra
+
+Crear orden de compra
+
+El sistema le permite crear ordenes de compra.
+
+Para acceder a la creación de ordenes de compra realice los siguientes pasos:
+
+Menú Inventarios > Orden de Compra
+
+Seleccione la opción
+
+Aparecerá un formulario que se divide en dos secciones:Datos Básicosque indican la información del proveedor al cual se le asignara la orden de compra yDetalle de la Compradonde puede incluir uno o varios repuestos de acuerdo como lo requiera.
+
+Datos Básicos:
+
+Ingrese laFechade la compra
+
+Seleccione elProveedoral que se le hará la compra.
+
+IngreseObservación(Opcional)
+
+IngreseFecha de Pago
+
+IngreseDirección de Entrega
+
+Tenga en cuenta lo siguiente, al momento de usted ingresar el encabezado de la orden de compra, el sistema guardara un borrador de la orden de compra, esto es muy útil, pues usted puede ingresar una parte de la orden de compra y finalizar esta después.
+
+Al ingresar nuevamente a la creación de una orden de compra, el sistema le permitirá visualizar un listado con los borradores de las órdenes de compra que usted no ha finalizado (grabado).
+
+Al ingresar al borrador que esta guardado, el sistema le da la opción de finalizar la orden de compra, o descartar el borrador, es decir, eliminar el borrador.
+
+Detalle de la Compra:
+
+Seleccione elrepuestoque desea agregar a la orden
+
+Indique laCantidadque desea agregar a la orden de compra.
+
+IngreseVlr. Unitariodel repuesto que agregara a la orden.
+
+Ingrese **Dcto Unitario **el cual puede ser en porcentaje(%) o dinero
+
+IndiqueImpuesto.
+
+IngreseObservación
+
+Para finalizar haga clic enAgregar
+
+Después de tener un listado de repuestos con sus respectivos valores, usted tendrá la posibilidad editar directamente los valores sobre la casilla que lo requiera.
+
+Puede agregar los repuestos que usted desee en una orden de compra.
+
+Comocrear Proveedores
+
+Comocrear Repuestos
+
+compras
+
+inventarios
+
+orden de compra
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/seguridad/backup/contenido_backup
+Título: Contenido del backup de tus datos
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Contenido del backup de tus datos
+### ¿Qué, NO es este backup?​
+### ¿Qué, SI es este backup?​
+### ¿Qué contiene mi archivo?​
+### ¿Cómo está agrupada mi información?​
+### ¿Cómo se llaman mis archivos y cómo es su contenido?​
+### ¿Donde encuentro mis archivos?​
+### Así es la estructura completa de Carpetas y Archivos​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Seguridad
+
+Backup de datos
+
+Contenido del backup de tus datos
+
+No es una copia de la aplicación
+
+No son los informes ni estadísticas que visualizabas en la aplicación
+
+No es un archivo con formato de copia de base de datos
+
+Una copia de sus datos importantes
+
+Un conjunto de información legible en un formato estándar y de alta compatibilidad con otros sistemas de información (archivo de texto delimitado por tabuladores)
+
+Una copia de todos los archivos de fotos, documentos y pdf subidos en la aplicación
+
+El archivo de backup que vas a descargar, es un archivo comprimido, el cuál internamente contiene su información segmentada en carpetas por temas principales o módulos, de acuerdo a la cantidad de módulos o funciones que utilice en la aplicación.
+
+Los temas principales que agrupan la información son: Archivos maestros o configuraciones generales de la aplicación, listados y fuentes principales de información  (Catalog),Ckecklist, Combustible (Fuel), Inventario (Inventory), Mantenimiento (Maintenance), Personas (People), Llantas (Tires), Vehículos (Vehicle) y Viajes (Voyaje).
+
+El nombre de los archivos ubicados al interior de cada carpeta está dado por el tipo de información que contiene, por ejemplo, en la carpeta "Maintenance" el archivo "WorkOrderHeaders" encontrará todas las Ordenes de trabajo.
+
+Notará que al final de cada nombre de archivo hay una fecha y hora. Esta indica que los datos en ese archivo están hasta el corte de esa fecha y hora, que está en la zona horaria de tu cuenta.
+
+Todos los archivos son de texto plano con extensión .txt y separado por tabuladores. En su primera fila contiene los encabezados de columna.
+
+¿Qué pasa con los archivos relacionados?
+
+Si la información contenida en el archivo de texto tiene archivos relacionados, tales como imágenes, documentos, o cualquier archivo almacenado en la aplicación; entonces encontrara en cada registro en la columna "Relative Folder" la ubicación dentro del directorio en la cual se almacena el archivo y en la columna"File Name"como se llamará el archivo relacionado; este nombre de archivo es un identificador único.
+
+Con esta ruta y nombre puedes encontrarlos fácilmente en la estructura final de archivos en el explorador de windows, al descomprimir el archivo.
+
+Existe una carpeta llamada Files que contendrá todos los archivos, segmentados en carpetas según el tipo de información (tema o módulo) al que pertenezca y el nombre de cada archivo corresponde a un identificador único, con el fin de evitar duplicidad en los nombres, y la extensión correspondiente al tipo de archivo cargado en la aplicación.
+
+Las posibles carpetas que encontraras en tu backup de archivos, en la carpeta Files, serán:
+
+AccountLogo
+
+Checklist
+
+ChecklistSignatures
+
+MaintenanceIssues
+
+PersonDocuments
+
+PersonProfile
+
+PersonSignatures
+
+TireAlignments
+
+TireInspections
+
+TravelDocuments
+
+VehicleDocuments
+
+VehicleProfile
+
+VendorDocuments
+
+WorkOrderTracking
+
+CatalogsCitiesyyyy-MM-dd HH-mm.txtCompaniesyyyy-MM-dd HH-mm.txtCostsCentersyyyy-MM-dd HH-mm.txtLedgerAccountsyyyy-MM-dd HH-mm.txtPriceAgreementsyyyy-MM-dd HH-mm.txtTaxesyyyy-MM-dd HH-mm.txtTire CatalogCostAdjustmentsyyyy-MM-dd HH-mm.txtTire CatalogJobsyyyy-MM-dd HH-mm.txtTire CatalogLocationsyyyy-MM-dd HH-mm.txtTire Dimensionsyyyy-MM-dd HH-mm.txtTire ReasonsEndLifeyyyy-MM-dd HH-mm.txtTire RetreadingBandsyyyy-MM-dd HH-mm.txtTire StatusActionsCatalogyyyy-MM-dd HH-mm.txtVendorDocumentsyyyy-MM-dd HH-mm.txtVendorsyyyy-MM-dd HH-mm.txt
+
+Citiesyyyy-MM-dd HH-mm.txt
+
+Companiesyyyy-MM-dd HH-mm.txt
+
+CostsCentersyyyy-MM-dd HH-mm.txt
+
+LedgerAccountsyyyy-MM-dd HH-mm.txt
+
+PriceAgreementsyyyy-MM-dd HH-mm.txt
+
+Taxesyyyy-MM-dd HH-mm.txt
+
+Tire CatalogCostAdjustmentsyyyy-MM-dd HH-mm.txt
+
+Tire CatalogJobsyyyy-MM-dd HH-mm.txt
+
+Tire CatalogLocationsyyyy-MM-dd HH-mm.txt
+
+Tire Dimensionsyyyy-MM-dd HH-mm.txt
+
+Tire ReasonsEndLifeyyyy-MM-dd HH-mm.txt
+
+Tire RetreadingBandsyyyy-MM-dd HH-mm.txt
+
+Tire StatusActionsCatalogyyyy-MM-dd HH-mm.txt
+
+VendorDocumentsyyyy-MM-dd HH-mm.txt
+
+Vendorsyyyy-MM-dd HH-mm.txt
+
+ChecklistChecklistyyyy-MM-dd HH-mm.txtChecklistImagesyyyy-MM-dd HH-mm.txtChecklistIssueyyyy-MM-dd HH-mm.txtChecklistSignyyyy-MM-dd HH-mm.txt
+
+Checklistyyyy-MM-dd HH-mm.txt
+
+ChecklistImagesyyyy-MM-dd HH-mm.txt
+
+ChecklistIssueyyyy-MM-dd HH-mm.txt
+
+ChecklistSignyyyy-MM-dd HH-mm.txt
+
+FuelFuelyyyy-MM-dd HH-mm.txt
+
+Fuelyyyy-MM-dd HH-mm.txt
+
+InventoryInventoryMovementLaborsyyyy-MM-dd HH-mm.txtInventoryMovementPartsyyyy-MM-dd HH-mm.txtInventoryMovementsyyyy-MM-dd HH-mm.txtInventoryMovementsVoidedyyyy-MM-dd HH-mm.txtInventoryTransfersyyyy-MM-dd HH-mm.txtPhysicalInventoriesyyyy-MM-dd HH-mm.txtPhysicalInventoriesCountyyyy-MM-dd HH-mm.txtPhysicalInventoriesSummaryyyyy-MM-dd HH-mm.txtPurchaseOrderDetailsyyyy-MM-dd HH-mm.txtPurchaseOrdersyyyy-MM-dd HH-mm.txtPurchaseOrdersVoidedyyyy-MM-dd HH-mm.txtQuotationLaborsyyyy-MM-dd HH-mm.txtQuotationPartsyyyy-MM-dd HH-mm.txtQuotationRequestLaborsyyyy-MM-dd HH-mm.txtQuotationRequestPartsyyyy-MM-dd HH-mm.txtQuotationRequestReopeningsyyyy-MM-dd HH-mm.txtQuotationRequestsyyyy-MM-dd HH-mm.txtQuotationRequestsVoidedyyyy-MM-dd HH-mm.txtQuotationsyyyy-MM-dd HH-mm.txt
+
+InventoryMovementLaborsyyyy-MM-dd HH-mm.txt
+
+InventoryMovementPartsyyyy-MM-dd HH-mm.txt
+
+InventoryMovementsyyyy-MM-dd HH-mm.txt
+
+InventoryMovementsVoidedyyyy-MM-dd HH-mm.txt
+
+InventoryTransfersyyyy-MM-dd HH-mm.txt
+
+PhysicalInventoriesyyyy-MM-dd HH-mm.txt
+
+PhysicalInventoriesCountyyyy-MM-dd HH-mm.txt
+
+PhysicalInventoriesSummaryyyyy-MM-dd HH-mm.txt
+
+PurchaseOrderDetailsyyyy-MM-dd HH-mm.txt
+
+PurchaseOrdersyyyy-MM-dd HH-mm.txt
+
+PurchaseOrdersVoidedyyyy-MM-dd HH-mm.txt
+
+QuotationLaborsyyyy-MM-dd HH-mm.txt
+
+QuotationPartsyyyy-MM-dd HH-mm.txt
+
+QuotationRequestLaborsyyyy-MM-dd HH-mm.txt
+
+QuotationRequestPartsyyyy-MM-dd HH-mm.txt
+
+QuotationRequestReopeningsyyyy-MM-dd HH-mm.txt
+
+QuotationRequestsyyyy-MM-dd HH-mm.txt
+
+QuotationRequestsVoidedyyyy-MM-dd HH-mm.txt
+
+Quotationsyyyy-MM-dd HH-mm.txt
+
+MaintenanceLaborFrecuenciesyyyy-MM-dd HH-mm.txtLaborPropertiesyyyy-MM-dd HH-mm.txtLaborsyyyy-MM-dd HH-mm.txtMaintenanceIssueFilesyyyy-MM-dd HH-mm.txtMaintenanceIssuesyyyy-MM-dd HH-mm.txtMaintenanceSchedulesyyyy-MM-dd HH-mm.txtPartCostPerVendorsyyyy-MM-dd HH-mm.txtPartPerLocationsyyyy-MM-dd HH-mm.txtPartsyyyy-MM-dd HH-mm.txtRoutineFrecuenciesyyyy-MM-dd HH-mm.txtRoutineLaborsyyyy-MM-dd HH-mm.txtRoutinePartsyyyy-MM-dd HH-mm.txtRoutinesyyyy-MM-dd HH-mm.txtWorkOrderHeadersyyyy-MM-dd HH-mm.txtWorkOrderLaborsyyyy-MM-dd HH-mm.txtWorkOrderPartsyyyy-MM-dd HH-mm.txtWorkOrderTrackingyyyy-MM-dd HH-mm.txtWorkOrderTrackingFilesyyyy-MM-dd HH-mm.txt
+
+LaborFrecuenciesyyyy-MM-dd HH-mm.txt
+
+LaborPropertiesyyyy-MM-dd HH-mm.txt
+
+Laborsyyyy-MM-dd HH-mm.txt
+
+MaintenanceIssueFilesyyyy-MM-dd HH-mm.txt
+
+MaintenanceIssuesyyyy-MM-dd HH-mm.txt
+
+MaintenanceSchedulesyyyy-MM-dd HH-mm.txt
+
+PartCostPerVendorsyyyy-MM-dd HH-mm.txt
+
+PartPerLocationsyyyy-MM-dd HH-mm.txt
+
+Partsyyyy-MM-dd HH-mm.txt
+
+RoutineFrecuenciesyyyy-MM-dd HH-mm.txt
+
+RoutineLaborsyyyy-MM-dd HH-mm.txt
+
+RoutinePartsyyyy-MM-dd HH-mm.txt
+
+Routinesyyyy-MM-dd HH-mm.txt
+
+WorkOrderHeadersyyyy-MM-dd HH-mm.txt
+
+WorkOrderLaborsyyyy-MM-dd HH-mm.txt
+
+WorkOrderPartsyyyy-MM-dd HH-mm.txt
+
+WorkOrderTrackingyyyy-MM-dd HH-mm.txt
+
+WorkOrderTrackingFilesyyyy-MM-dd HH-mm.txt
+
+PeoplePeopleyyyy-MM-dd HH-mm.txtPeopleAlertsyyyy-MM-dd HH-mm.txtPeopleDocumentsyyyy-MM-dd HH-mm.txtPeopleSignaturesyyyy-MM-dd HH-mm.txt
+
+Peopleyyyy-MM-dd HH-mm.txt
+
+PeopleAlertsyyyy-MM-dd HH-mm.txt
+
+PeopleDocumentsyyyy-MM-dd HH-mm.txt
+
+PeopleSignaturesyyyy-MM-dd HH-mm.txt
+
+TiresTire Alignmentsyyyy-MM-dd HH-mm.txtTire AlignmentsAxisyyyy-MM-dd HH-mm.txtTire CostAdjustmentsyyyy-MM-dd HH-mm.txtTire Depthsyyyy-MM-dd HH-mm.txtTire Discardsyyyy-MM-dd HH-mm.txtTire InspectionActionsyyyy-MM-dd HH-mm.txtTire InspectionImagesyyyy-MM-dd HH-mm.txtTire InspectionStatusyyyy-MM-dd HH-mm.txtTire Jobsyyyy-MM-dd HH-mm.txtTire JobsFrequencyyyyy-MM-dd HH-mm.txtTire ListTiresyyyy-MM-dd HH-mm.txtTire LocationsLogyyyy-MM-dd HH-mm.txtTire MountsRotationsyyyy-MM-dd HH-mm.txtTire Pressuresyyyy-MM-dd HH-mm.txtTire Regrooveyyyy-MM-dd HH-mm.txt
+
+Tire Alignmentsyyyy-MM-dd HH-mm.txt
+
+Tire AlignmentsAxisyyyy-MM-dd HH-mm.txt
+
+Tire CostAdjustmentsyyyy-MM-dd HH-mm.txt
+
+Tire Depthsyyyy-MM-dd HH-mm.txt
+
+Tire Discardsyyyy-MM-dd HH-mm.txt
+
+Tire InspectionActionsyyyy-MM-dd HH-mm.txt
+
+Tire InspectionImagesyyyy-MM-dd HH-mm.txt
+
+Tire InspectionStatusyyyy-MM-dd HH-mm.txt
+
+Tire Jobsyyyy-MM-dd HH-mm.txt
+
+Tire JobsFrequencyyyyy-MM-dd HH-mm.txt
+
+Tire ListTiresyyyy-MM-dd HH-mm.txt
+
+Tire LocationsLogyyyy-MM-dd HH-mm.txt
+
+Tire MountsRotationsyyyy-MM-dd HH-mm.txt
+
+Tire Pressuresyyyy-MM-dd HH-mm.txt
+
+Tire Regrooveyyyy-MM-dd HH-mm.txt
+
+VehiclesOtherExpensesyyyy-MM-dd HH-mm.txtOtherIncomesyyyy-MM-dd HH-mm.txtVehicleDriversCurrentyyyy-MM-dd HH-mm.txtVehicleDriversLogyyyy-MM-dd HH-mm.txtVehicleInsurancesyyyy-MM-dd HH-mm.txtVehicleOdometerResetsyyyy-MM-dd HH-mm.txtVehicleOdometersyyyy-MM-dd HH-mm.txtVehicleOtherDocsyyyy-MM-dd HH-mm.txtVehiclesyyyy-MM-dd HH-mm.txtVehiclesLinkedyyyy-MM-dd HH-mm.txtVehicleTaxesyyyy-MM-dd HH-mm.txt
+
+OtherExpensesyyyy-MM-dd HH-mm.txt
+
+OtherIncomesyyyy-MM-dd HH-mm.txt
+
+VehicleDriversCurrentyyyy-MM-dd HH-mm.txt
+
+VehicleDriversLogyyyy-MM-dd HH-mm.txt
+
+VehicleInsurancesyyyy-MM-dd HH-mm.txt
+
+VehicleOdometerResetsyyyy-MM-dd HH-mm.txt
+
+VehicleOdometersyyyy-MM-dd HH-mm.txt
+
+VehicleOtherDocsyyyy-MM-dd HH-mm.txt
+
+Vehiclesyyyy-MM-dd HH-mm.txt
+
+VehiclesLinkedyyyy-MM-dd HH-mm.txt
+
+VehicleTaxesyyyy-MM-dd HH-mm.txt
+
+VoyagesVoyageCustomerDeductionsyyyy-MM-dd HH-mm.txtVoyageCustomerPaymentsyyyy-MM-dd HH-mm.txtVoyageLoadsyyyy-MM-dd HH-mm.txtVoyagePaymentBalancesyyyy-MM-dd HH-mm.txtVoyageProductsyyyy-MM-dd HH-mm.txtVoyageReadvancesyyyy-MM-dd HH-mm.txtVoyageReopeningsyyyy-MM-dd HH-mm.txtVoyageRoutesyyyy-MM-dd HH-mm.txtVoyageRoutesFuelyyyy-MM-dd HH-mm.txtVoyageRoutesSettlementsyyyy-MM-dd HH-mm.txtVoyageRoutesViasyyyy-MM-dd HH-mm.txtVoyagesyyyy-MM-dd HH-mm.txtVoyageSettlementsyyyy-MM-dd HH-mm.txtVoyageSettlementsConceptsyyyy-MM-dd HH-mm.txtVoyageTollsyyyy-MM-dd HH-mm.txtVoyageTotalsyyyy-MM-dd HH-mm.txt
+
+VoyageCustomerDeductionsyyyy-MM-dd HH-mm.txt
+
+VoyageCustomerPaymentsyyyy-MM-dd HH-mm.txt
+
+VoyageLoadsyyyy-MM-dd HH-mm.txt
+
+VoyagePaymentBalancesyyyy-MM-dd HH-mm.txt
+
+VoyageProductsyyyy-MM-dd HH-mm.txt
+
+VoyageReadvancesyyyy-MM-dd HH-mm.txt
+
+VoyageReopeningsyyyy-MM-dd HH-mm.txt
+
+VoyageRoutesyyyy-MM-dd HH-mm.txt
+
+VoyageRoutesFuelyyyy-MM-dd HH-mm.txt
+
+VoyageRoutesSettlementsyyyy-MM-dd HH-mm.txt
+
+VoyageRoutesViasyyyy-MM-dd HH-mm.txt
+
+Voyagesyyyy-MM-dd HH-mm.txt
+
+VoyageSettlementsyyyy-MM-dd HH-mm.txt
+
+VoyageSettlementsConceptsyyyy-MM-dd HH-mm.txt
+
+VoyageTollsyyyy-MM-dd HH-mm.txt
+
+VoyageTotalsyyyy-MM-dd HH-mm.txt
+
+seguridad
+
+backup
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/seguridad/compatibilidad/navegadores_soportados
+Título: Navegadores web soportados
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Navegadores web soportados
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Seguridad
+
+Compatibilidad
+
+Navegadores web soportados
+
+Para un optimo funcionamiento de la aplicación web, sugerimos la utilización de los siguientes navegadores:
+
+Google Chrome. Ultima versión o versión anterior a la actual
+
+Firefox. Ultima versión o versión anterior a la actual
+
+Edge. Ultima versión o versión anterior a la actual
+
+Internet Explorer 9 o superior
+
+Safari
+
+Es importante aclarar que la aplicación no va a funcionar en versiones anteriores a Internet Explorer 9. Si usted tiene un navegador con estas características, le sugerimos utilizar otro navegador o actualizar su Internet Explorer
+
+Recomendación
+
+Asegúrese de mantener actualizado su navegador web ya que con cada actualización que se libera se solucionan problemas de seguridad y se mejora la velocidad con la que navegas entre las páginas. Esto es importante no solo para usar cloudFleet sino también para las acciones que haces día a día, como ingresar a tu banco, tu correo, tus redes sociales, entre otros.
+
+seguridad
+
+compatibilidad
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/seguridad/usuarios/nuevo_inicio_sesion
+Título: Nuevo inicio de sesión
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Nuevo inicio de sesión
+### Inicio de sesión desde la Web​
+### Alias de la cuenta​
+### Inicio de sesión desde la App​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Seguridad
+
+Usuarios
+
+Nuevo inicio de sesión
+
+Para iniciar sesión con el nuevo sistema de autenticación, deberás seguir estos pasos:
+
+Ingresa a la página webcloudfleet.comy haz clic en iniciar sesión.
+
+Introduce el Alias que te fue proporcionado previamente y confirma seleccionando, Continuar. Si olvidaste tu Alias o contraseña,clic aquí para conocer cómo recuperarlos
+
+Ingresa tu nombre de usuario en el campo deUsernamey tu clave en el campoPassword.
+
+Luego inicia sesión presionando el botón en Sign In.
+
+¡Listo! con estos pasos, habrás ingresado al sistema con éxito.
+
+Para iniciar sesión desde la App, haz clic en el botón Iniciar sesión, se abrirá un navegador en tu celular y deberás realizar los mismos pasos explicados anteriormente para la versión web.Es muy importante que actualices la aplicación, tan pronto esté disponible la nueva versión.
+
+¿Por qué decidimos hacer la actualización en ese horario?
+
+Para aprovechar el tiempo de inactividad relacionado con el medio día y para asegurarnos de que nuestro equipo de soporte esté disponible para todos los usuarios que requieran acompañamiento.
+
+¿Por qué el formulario donde escribo el usuario y clave está en inglés?
+
+Nuestro nuevo proveedor que gestiona los usuarios y claves se llama Amazon Cognito. El formulario donde ingresas tu usuario y clave es externo a nuestro sistema, es decir nosotros como cloudFleet no tenemos ningún control sobre tus datos de acceso y por ahora Amazon Cognito solo está disponible en idioma inglés. Esperamos que pronto Amazon disponga de una versión en español.
+
+seguridad
+
+usuarios
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/compras_inventarios/orden_compra/solicitar_orden_compra
+Título: Solicitar orden de compra
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Solicitar orden de compra
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Compras e Inventarios
+
+Orden de Compra
+
+Solicitar orden de compra
+
+El sistema le permite tener la opción de marcar las ordenes de compra como "Solicitadas al Proveedor", esto le permitirá tener un mayor control sobre lo que ha sido solicitado a los proveedores, de igual forma poder indicar la fecha y la hora de entrega del repuesto.
+
+Para acceder a la solicitud de una orden de compra realice los siguientes pasos:
+
+Menú Inventarios > Orden de Compra
+
+Ubique la Ordena la cual que desea crear la compra.
+
+Haga clic sobre el icono de Mas Acciones
+
+Haga clic en el icono representado por
+
+Ingrese las Observaciones pertinentes.
+
+Ingrese la Fecha y hora probable de entrega.
+
+Para finalizar haga clic en el botónMarcar como solicitado
+
+compras
+
+inventarios
+
+orden de compra
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/configuracion/empresa/cuenta
+Título: Cuenta
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Cuenta
+## 1. Principal​
+## 2. Logo de la cuenta​
+## 3. Cupo Máximo de Vehículos​
+## 4. Subcuentas​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Configuración
+
+Empresa
+
+Cuenta
+
+La configuración de la cuenta es muy importante; es la información que identifica la cuenta, parte de esta información se mostrara al momento de generar los informes, identificación tributaria, nombre de la empresa a nivel comercial y logo empresarial, entre otros.
+
+Para configurar la Cuenta siga los siguientes pasos:
+
+Haga clic enEmpresa > Configuración > Empresa > Cuenta
+
+Esta configuración se divide en diferentes pestañas las cuales son:
+
+Cuenta1. Principal2. Logo de la cuenta3. Cupo Máximo de Vehículos4. Subcuentas
+
+1. Principal
+
+2. Logo de la cuenta
+
+3. Cupo Máximo de Vehículos
+
+4. Subcuentas
+
+Ingrese los datos que identifican la empresa:
+
+*Nombre de la Cuenta, el nombre con el cual se identifica la empresa
+
+Seleccione elIdiomade la cuenta
+
+Para finalizar haga clic en Guardar
+
+El sistema permite que usted cargue el logo de su empresa.
+
+Empresa > Configuración
+
+Del menú de la izquierda ingrese a:Empresa > Cuentay de las opciones que muestran a la derecha, haga clic sobre Logo de la cuenta.
+
+Haga clic sobre el botón "Seleccionar Archivo"
+
+Una vez seleccionado el archivo, puedemoverla imagen ycambiar su tamañopara ajustarla a la posición deseada.
+
+Para desplazar, sitúe el cursor sobre la imagen cargada y cuando aparezca este icono , mueva la imagen hasta situarla donde desea.
+
+Para cambiar su tamaño, sitúe el cursor sobre el deslizador y ajuste el tamaño de izquierda a derecha.
+
+Para finalizar haga clic enSubir
+
+Usted puede definirSíla cuenta tendrá un cupo limitado oNo, esto para evitar el ingreso de un número mayor al que se quiere ingresar
+al sistema.
+
+Activando ésta opción, podrá dividir su cuenta principal en varias subcuentas; y en ellas, agrupar sus vehículos y el personal.
+
+Con esta funcionalidad el administrador asegurará que los usuarios sólo accederán a la información y acciones que corresponde; ya que una persona que pertenezca, por ejemplo, a la subcuenta "División I" solo podrá ver y ejecutar las diferentes opciones sobre los vehículos que estén asociados a la misma subcuenta "División I".
+
+Para activar y crear las subcuentas, ingrese por:
+
+Empresa > Configuración
+
+Del menú de la izquierda ingrese a:Empresa > Cuentay de las opciones que muestran a la derecha, haga clic sobre Subcuentas.
+
+Haga clic sobre el botón que se encuentra al frente de "Activar Subcuentas", para que ésta se active.
+
+Al activar esta opción, registre el nombre de las diferentes subcuentas que considere necesarias.
+
+Al activar la opción de subcuentas, se creará una principal (con el nombre de su cuenta) y todos los vehículos y las personas, automáticamente se asociaran a ella.
+
+Un vehículo o una persona, mínimo pertenecerán a una subcuenta.
+
+[Artículos que le pueden interesar]
+
+Asociar Subcuentas a Vehículos
+
+Asociar Subcuentas a Personas
+
+configuración
+
+empresa
+
+subcuentas
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/configuracion/vehiculos/marcas_lineas
+Título: Marcas/Lineas
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Marcas/Lineas
+## Marcas​
+## Líneas​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Configuración
+
+Vehículos
+
+Marcas/Lineas
+
+Configurar las marcas de los vehículos o equipos que va ha matricular en el sistema; esto para tener mayor control sobre la información de su flota. Por ejemplo: Chevrolet, Ford, International, Kenworth, etc.
+
+Para ingresar a la configuración haga clic en:
+
+MenúEmpresa > Configuración > Vehículos > Marcas/Línea.
+
+Desde este punto usted puede crear, modificar o eliminar una Marca, al igual que crear, modificar o eliminar una Línea
+
+Para agregar una marca de vehículos siga los siguientes pasos:
+
+Ingrese el nombre en el campo *Marca.
+
+Para finalizar haga clic enCrear.
+
+Para eliminar una marca, primero elimine las líneas asociadas.
+
+Defina las líneas para las marcas de los vehículos que posee en su flota.
+
+Para hacerlo siga los siguientes pasos:
+
+Ubique la marca del vehículo.
+
+Haga clic en el enlace.
+
+Ingrese el nombre en el campo *Línea.
+
+Para finalizar haga clic enCrear.
+
+Nota.Puede crear el numero de líneas que desee para cada marca.
+
+configuración
+
+vehículos
+
+marcas
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/configuracion/configuracion_checklist/tipos_checklist
+Título: Tipos de checklist
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Tipos de checklist
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Configuración
+
+Configuración checklist
+
+Tipos de checklist
+
+El sistema le permite tener diferentes tipos de checklist (diario, mensual), cada uno de ellos con diferentes items de pendiendo del chequeo que necesite realizar, así como definir el checklist por tipo de vehículo.
+
+Para acceder a la configuración de Checklist realice los siguientes pasos:
+
+MenúEmpresa > Configuración
+
+Al lado izquierdo aparecerán diferentes opción de** Checklist**
+
+Seleccione la opción deTipos de Checklist
+
+Para Crear Tipos de Checklist siga los siguientes pasos:
+
+Ingrese elNombredel tipo de Checklist
+
+IngreseCódigo(opcional)
+
+Seleccione sí sera **Odómetro Requerido **al momento de crear el checklist
+
+Seleccione sí sera **Horómetro Requerido **al momento de crear el checklist
+
+Ingrese losDías que permite clonación, es el tiempo que tendrá para clonar un checklist creado.
+
+Seleccione si o no, el tipo de checklist estaráActivo
+
+Ingrese laPeriodicidad, indique la frecuencia en la cual se debe realizar el tipo de checklist, puede definirla en Días, Horas o Odometro.
+
+Al lado derecho encontrara dos pestañas
+
+La pestaña deAplica Para, le permitirá seleccionar una opción entre varias opciones que el sistema le ofrece, estas son:
+
+Por tipo de vehículo, seleccione los tipos de vehículos a los cuales le aplicara el tipo de checklist.
+
+Por marca y Linea, seleccione las marcas y lineas a los cuales le aplicara el tipo de checklist.
+
+Por tipo de Motor,  seleccione el tipo de motor a los cuales le aplicara el tipo de checklist.
+
+Por tipo de vehículo y motor,  seleccione el tipo de vehículo y motor a los cuales le aplicara el tipo de checklist.
+
+La pestaña deAccesos Checklist, se usa cuando usted desee que solo algunas personas puedan ver un tipo de checklist determinado para su elaboración, por defecto estará en "Todos", lo cual indica que todos los usuarios podrán ver el tipo de checklist, si desea darle acceso solo a un grupo de usuarios, debe desplegar la lista y seleccionar los accesos, un ejemplo puede ser el tipo de checklist "Inspección visual", que solo lo puedan ver los conductores.
+
+Para finalizar haga clic enCrear
+
+Usted puede agregar un pie de página para el tipo de checklist, solo debe dar clic en el icono, y agregar el texto que desea que aparezca.
+
+Es muy importante que usted defina de una forma correcta el tipo de checklist que aplicara para el tipo de vehículo.
+
+Recuerde que en la sección devideos de entrenamientoencontrara videos sobre la configuración y ejecución de checklist.
+
+configuración
+
+checklist
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/configuracion/mantenimeinto/etiquetas_mantenimiento
+Título: Etiquetas de mantenimiento
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Etiquetas de mantenimiento
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Configuración
+
+Mantenimiento
+
+Etiquetas de mantenimiento
+
+Las etiquetas las puede usar para dar una identificación o distinción adicional a las orden de trabajo. Ejemplo:
+
+Pagada
+
+Pendiente de Pago
+
+En espera de repuestos
+
+Con estas etiquetas se pueden clasificar las Ordenes de Trabajo al momento de crearla, con el fin deidentificarlassegún sea el caso. Con esta clasificación se obtiene una consulta práctica, por ejemplo: De determinado rango de fechas, ubique las ordenes que se han creado con la etiqueta por "Pendiente de pago".
+
+Para crear "Etiquetas de Mantenimiento" ingrese por:
+
+Empresa > Configuración > Mantenimiento > Etiquetas Mantenimiento
+
+Ingrese el nombre de la Etiqueta el campo "Etiqueta de Mantenimiento"
+
+Opcional mente le puede asignar un código a la etiqueta.
+
+Finalice la acción, haciendo clic en el botón "Crear"
+
+configuración
+
+mentenimiento
+
+etiquetas
+================================================================================
+
+================================================================================
+URL: https://soporte.cloudfleet.com/docs/cloudFleet/configuracion/combustible/rendimiento_ideal
+Título: Rendimiento ideal
+
+## ESTRUCTURA DEL CONTENIDO
+
+# Rendimiento ideal
+## Por tipo de Vehículo y Motor​
+## Por Ruta​
+
+## CONTENIDO COMPLETO
+
+Guía de Usuario
+
+Configuración
+
+Combustible
+
+Rendimiento ideal
+
+Con esta opción usted podrá definir cual es el rendimiento ideal de combustible (ejemplo: kilómetros por galón) de acuerdo con lo que el fabricante del vehículo y motor indique, o a su experiencia sobre el consumo de combustible; otra opción es poder configurar el rendimiento ideal por ruta y peso que este transportando el vehículo, el cual puede ser mas exacto.
+
+El sistema le presentara una pantalla, la cual se divide en dos secciones:
+
+Por tipo de Vehículo y Motor
+
+Por Ruta
+
+Desde este punto usted podrá indicar al sistema cual es el rendimiento ideal de combustible dependiendo del tipo de vehículo y tipo de motor que tenga asignado el vehículo.
+
+Ingrese a la pestaña "Por Tipo de Vehículo y Motor"
+
+Seleccione el tipo de vehículo
+
+Seleccione el tipo de combustible
+
+Seleccione el tipo de motor
+
+Ingrese el rendimiento ideal
+
+Para grabar haga clic enAgregar
+
+Después de agregar el rendimiento ideal Por Tipo de Vehículo y Motor, el sistema en la parte inferior le mostrara los registros ingresados. Usted podrá actualizar los registros históricos que se encuentran ya creados en el sistema, para que el rendimiento ideal se aplique en todos los vehículos que cuentan con el tipo de vehículo y tipo de motor asignado.
+
+Para aplicar el rendimiento ideal, solo debe dar clic sobre el icono de. El sistema le mostrara un formulario en el cual usted debe indicar si desea que se actualicen, todos los registro de combustible o solo los registros en un rango de fechas en especifico, luego solo debe dar clic sobre el botónActualizar Registros
+
+Esta opción le permite ser mucho mas preciso sobre el rendimiento del combustible que debe tener el vehículo de acuerdo al peso que esta transportando así como a su origen- destino y  vía, esta opción la tendrán disponible solo las empresas que usen el modulo de viajes.
+
+El rendimiento ideal se aplicara si el registro de combustible esta asociado al viaje; de lo contrario tomara el rendimiento ideal del vehículo, si este lo tiene, sino tomar el rendimiento ideal por tipo de vehículo y motor.
+
+Es muy importante tener claro lo siguiente, el rendimiento del combustible configurado por ruta, solo aplica para los viajes que tengan carga registrada, y en este registro de carga se diligencia el capo de peso transportado.
+
+Para definir el rendimiento ideal por ruta, siga los siguientes pasos:
+
+Ingrese a la pestaña Por Rutas
+
+Seleccione el nombre de laRuta - Vía
+
+Ingrese el rango dePeso, este se deben ingresar valores en kilos.
+
+Seleccione elTipo de Vehículo
+
+Seleccione elTipo de Combustible
+
+Seleccione elTipo de Motor(Opcional)
+
+Ingrese elRendimiento Ideal
+
+Para finalizar haga clic enAgregar
+
+Después de agregar el rendimiento ideal Por Ruta - Vía, el sistema en la parte inferior le mostrará los registros ingresados. El sistema le permitirá actualizar los registros históricos que se encuentran ya creados en el sistema, para que el rendimiento ideal se aplique para todos los vehículos que cuentan con Ruta - Vía asignada. Para aplicar el rendimiento ideal, solo debe dar clic sobre el icono de. Se mostrará un formulario en el cual usted debe indicar si desea que se actualicen, todos los registro de combustible o solo los registros en un rango de fechas en especifico, luego solo debe dar clic sobre el botónActualizar Registros
+
+configuración
+
+combustible
+
+redimiento
